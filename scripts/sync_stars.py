@@ -314,7 +314,11 @@ class AISummarizer:
 
 class TemplateGenerator:
     def __init__(self, template_dir: Path):
-        self.env = Environment(loader=FileSystemLoader(str(template_dir)))
+        self.env = Environment(
+            loader=FileSystemLoader(str(template_dir)),
+            trim_blocks=True,
+            lstrip_blocks=True,
+        )
 
     def render(self, template_name: str, context: dict) -> str:
         template = self.env.get_template(template_name)
