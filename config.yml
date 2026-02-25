@@ -37,14 +37,6 @@ output:
   # 在本仓库中生成的 stars.md 路径
   file_path: "stars.md"
 
-  # 每个 repo 在 md 中展示的格式
-  # 可用字段: name, full_name, description, stars, language, url, starred_at
-  show_fields:
-    - stars
-    - language
-    - starred_at
-    - url
-
 # ── Obsidian Vault 同步配置（可选功能）────────────────────
 # ✔️  开关和目标仓库通过 Actions Variables 配置，详见 README
 #    VAULT_SYNC_ENABLED → 是否启用（true/false）
@@ -52,7 +44,7 @@ output:
 #    VAULT_FILE_PATH    → 覆盖下方默认路径
 vault_sync:
   # stars.md 在 Vault 仓库中的默认存放路径（可被 VAULT_FILE_PATH Variable 覆盖）
-  default_file_path: "GitHub Stars/stars.md"
+  default_file_path: "GitHub-Stars/stars.md"
 
   # 推送到 Vault 仓库时的 commit 信息
   commit_message: "🤖 自动更新 GitHub Stars 摘要"

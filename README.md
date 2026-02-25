@@ -53,7 +53,7 @@
 | `AI_MODEL`           | 模型名称（如 `gpt-4o-mini`），不填则用 `config.yml` 默认值     | ❌    |
 | `VAULT_SYNC_ENABLED` | 是否启用同步到 Vault 仓库，填 `true` 开启                      | ❌    |
 | `VAULT_REPO`         | Vault 仓库（`owner/repo-name` 格式）                           | ❌    |
-| `VAULT_FILE_PATH`    | `stars.md` 在 Vault 仓库中的路径，默认 `GitHub Stars/stars.md` | ❌    |
+| `VAULT_FILE_PATH`    | `stars.md` 在 Vault 仓库中的路径，默认 `GitHub-Stars/stars.md` | ❌    |
 
 ### 第三步：按需修改 config.yml
 
@@ -92,7 +92,7 @@ output:
 
 vault_sync:
   # Vault 同步的开关和仓库名通过 Actions Variables 控制，此处仅配置默认路径和 commit 信息
-  default_file_path: "GitHub Stars/stars.md"
+  default_file_path: "GitHub -tars/stars.md"
   commit_message: "🤖 自动更新 GitHub Stars 摘要"
 ```
 
@@ -112,7 +112,7 @@ vault_sync:
    | -------------------- | ----------------------------------- |
    | `VAULT_SYNC_ENABLED` | `true`                              |
    | `VAULT_REPO`         | `your-username/your-obsidian-vault` |
-   | `VAULT_FILE_PATH`    | `GitHub Stars/stars.md`             |
+   | `VAULT_FILE_PATH`    | `GitHub-Stars/stars.md`             |
 
 4. 确保 Obsidian Git 插件开启了**定时 Pull**，每次 Action 运行后 Obsidian 会自动获取最新的 `stars.md`
 
