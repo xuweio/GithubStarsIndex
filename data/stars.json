@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26 14:18 UTC",
+  "last_updated": "2026-02-26 14:41 UTC",
   "repos": {
     "op7418/Document-illustrator-skill": {
       "metadata": {
@@ -47,7 +47,7 @@
         "name": "nanobot",
         "owner": "HKUDS",
         "description": "\"🐈 nanobot: The Ultra-Lightweight OpenClaw\"",
-        "stars": 25630,
+        "stars": 25644,
         "language": "Python",
         "url": "https://github.com/HKUDS/nanobot",
         "homepage": "",
@@ -220,7 +220,7 @@
         "name": "cc-switch",
         "owner": "farion1231",
         "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.",
-        "stars": 20489,
+        "stars": 20497,
         "language": "TypeScript",
         "url": "https://github.com/farion1231/cc-switch",
         "homepage": "https://github.com/farion1231/cc-switch",
@@ -277,7 +277,7 @@
         "name": "everything-claude-code",
         "owner": "affaan-m",
         "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
-        "stars": 53094,
+        "stars": 53105,
         "language": "JavaScript",
         "url": "https://github.com/affaan-m/everything-claude-code",
         "homepage": "",
@@ -326,7 +326,7 @@
         "name": "prompt-optimizer",
         "owner": "linshenkx",
         "description": "一款提示词优化器，助力于编写高质量的提示词",
-        "stars": 22177,
+        "stars": 22179,
         "language": "TypeScript",
         "url": "https://github.com/linshenkx/prompt-optimizer",
         "homepage": "https://prompt.always200.com",
@@ -373,7 +373,7 @@
         "name": "beautiful-mermaid",
         "owner": "lukilabs",
         "description": "",
-        "stars": 7794,
+        "stars": 7798,
         "language": "TypeScript",
         "url": "https://github.com/lukilabs/beautiful-mermaid",
         "homepage": "",
@@ -453,7 +453,7 @@
         "name": "BMAD-METHOD",
         "owner": "bmad-code-org",
         "description": "Breakthrough Method for Agile Ai Driven Development",
-        "stars": 38057,
+        "stars": 38060,
         "language": "JavaScript",
         "url": "https://github.com/bmad-code-org/BMAD-METHOD",
         "homepage": "",
@@ -493,7 +493,7 @@
         "name": "Antigravity-Manager",
         "owner": "lbjlaq",
         "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
-        "stars": 24435,
+        "stars": 24436,
         "language": "Rust",
         "url": "https://github.com/lbjlaq/Antigravity-Manager",
         "homepage": "https://lbjlaq.github.io/Antigravity-Manager/",
@@ -806,7 +806,7 @@
         "name": "next-ai-draw-io",
         "owner": "DayuanJiang",
         "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-        "stars": 21936,
+        "stars": 21937,
         "language": "TypeScript",
         "url": "https://github.com/DayuanJiang/next-ai-draw-io",
         "homepage": "https://next-ai-drawio.jiang.jp/",
@@ -1010,7 +1010,7 @@
         "name": "Handy",
         "owner": "cjpais",
         "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-        "stars": 16166,
+        "stars": 16171,
         "language": "Rust",
         "url": "https://github.com/cjpais/Handy",
         "homepage": "https://handy.computer",
@@ -1055,7 +1055,7 @@
         "name": "ui-ux-pro-max-skill",
         "owner": "nextlevelbuilder",
         "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
-        "stars": 34917,
+        "stars": 34922,
         "language": "Python",
         "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
         "homepage": "https://www.uupm.cc/",
@@ -1115,7 +1115,7 @@
         "name": "vibe-kanban",
         "owner": "BloopAI",
         "description": "Get 10X more out of Claude Code, Codex or any coding agent",
-        "stars": 21951,
+        "stars": 21952,
         "language": "Rust",
         "url": "https://github.com/BloopAI/vibe-kanban",
         "homepage": "https://www.vibekanban.com/",
@@ -1260,7 +1260,7 @@
           "userscript",
           "userscripts"
         ],
-        "updated_at": "2026-02-12"
+        "updated_at": "2026-02-26"
       },
       "summary": {
         "zh": "KISS Translator 是一款简约开源的双语对照翻译工具，支持浏览器扩展与油猴脚本。集成 Google、OpenAI、DeepL 等主流翻译服务，提供网页翻译、划词翻译、输入框翻译、YouTube 字幕翻译等功能，支持富文本保留、自定义规则、AI 上下文记忆及跨端数据同步，适配 Chrome、Firefox、Safari 等主流浏览器。",
@@ -1380,7 +1380,7 @@
         "name": "clipsketch-ai",
         "owner": "RanFeng",
         "description": "将视频瞬间转化为手绘故事 Turn Video Moments into Hand-Drawn Stories",
-        "stars": 1622,
+        "stars": 1623,
         "language": "TypeScript",
         "url": "https://github.com/RanFeng/clipsketch-ai",
         "homepage": "https://clipsketch-ai.vercel.app",
@@ -1837,7 +1837,7 @@
         "name": "Mole",
         "owner": "tw93",
         "description": "🐹 Deep clean and optimize your Mac.",
-        "stars": 37160,
+        "stars": 37162,
         "language": "Shell",
         "url": "https://github.com/tw93/Mole",
         "homepage": "https://x.com/HiTw93/status/2025424790467871149",
@@ -1885,7 +1885,7 @@
         "name": "skills",
         "owner": "anthropics",
         "description": "Public repository for Agent Skills",
-        "stars": 76791,
+        "stars": 76820,
         "language": "Python",
         "url": "https://github.com/anthropics/skills",
         "homepage": "",
@@ -1908,6 +1908,403 @@
           "Document Processing",
           "AI Automation",
           "Claude Extensions"
+        ]
+      },
+      "pushed_at": "2026-02-25",
+      "updated_at": "2026-02-26"
+    },
+    "tianchangNorth/WeSpy": {
+      "metadata": {
+        "full_name": "tianchangNorth/WeSpy",
+        "name": "WeSpy",
+        "owner": "tianchangNorth",
+        "description": "WeSpy 是一个用于获取wx公众号文章并转换为 Markdown 格式的 Python 工具",
+        "stars": 217,
+        "language": "Python",
+        "url": "https://github.com/tianchangNorth/WeSpy",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2025-11-24"
+      },
+      "summary": {
+        "zh": "WeSpy 是一款专为微信公众号文章设计的 Python 工具，支持智能提取文章内容并转换为 Markdown 格式，具备图片防盗链处理、专辑批量下载及多格式输出（HTML/JSON）功能，同时提供命令行与 Python API 两种使用方式，适用于内容归档与知识管理场景。",
+        "en": "WeSpy is a Python tool designed for extracting WeChat public account articles and converting them into Markdown format. It features anti-hotlinking image handling, batch album downloading, multi-format output (HTML/JSON), and supports both CLI and Python API usage for content archiving and knowledge management.",
+        "tags_zh": [
+          "微信公众号",
+          "Markdown转换",
+          "内容抓取",
+          "批量下载"
+        ],
+        "tags_en": [
+          "WeChat Official Account",
+          "Markdown Conversion",
+          "Content Scraping",
+          "Batch Download"
+        ]
+      },
+      "pushed_at": "2025-11-24",
+      "updated_at": "2026-02-26"
+    },
+    "UfoMiao/zcf": {
+      "metadata": {
+        "full_name": "UfoMiao/zcf",
+        "name": "zcf",
+        "owner": "UfoMiao",
+        "description": "Zero-Config Code Flow for Claude code & Codex",
+        "stars": 5529,
+        "language": "TypeScript",
+        "url": "https://github.com/UfoMiao/zcf",
+        "homepage": "http://zcf.ufomiao.com/",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agent",
+          "bmad-method",
+          "ccr",
+          "claude",
+          "claude-4",
+          "claude-ai",
+          "claude-code",
+          "cli",
+          "gpt",
+          "gpt-5",
+          "llm",
+          "llm-code",
+          "nodejs",
+          "openai",
+          "prompt",
+          "typescript",
+          "workflow",
+          "zcf"
+        ],
+        "updated_at": "2026-02-26"
+      },
+      "summary": {
+        "zh": "ZCF 是一款零配置代码流工具，专为 Claude Code 和 Codex 设计，支持一键部署、多语言界面、智能代理系统和个性化 AI 助手。集成 MCP 工作流、API 路由与多平台赞助服务，提供开箱即用的开发体验。",
+        "en": "ZCF is a zero-config code flow tool for Claude Code & Codex, enabling one-click setup with bilingual support, intelligent agent system, and personalized AI assistant. It integrates MCP workflows, API routing, and sponsored relay services for seamless development.",
+        "tags_zh": [
+          "零配置部署",
+          "Claude Code",
+          "AI 编程助手",
+          "MCP 工作流"
+        ],
+        "tags_en": [
+          "Zero-Config",
+          "Claude Code",
+          "AI Coding Assistant",
+          "MCP Workflow"
+        ]
+      },
+      "pushed_at": "2026-02-26",
+      "updated_at": "2026-02-26"
+    },
+    "MapleShaw/auto-claude-writing-agent-pub": {
+      "metadata": {
+        "full_name": "MapleShaw/auto-claude-writing-agent-pub",
+        "name": "auto-claude-writing-agent-pub",
+        "owner": "MapleShaw",
+        "description": "",
+        "stars": 359,
+        "language": "N/A",
+        "url": "https://github.com/MapleShaw/auto-claude-writing-agent-pub",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2025-11-29"
+      },
+      "summary": {
+        "zh": "基于 Claude Sonnet 4.5 的多平台 AI 写作助手，提供从选题到发布的完整创作流程。通过‘首要原则’确保关键步骤执行，包含创意排水、三遍审校、标题优化等机制，显著降低 AI 味并提升可读性。支持风格学习、素材积累与版本管理，实现透明化协作。",
+        "en": "A multi-platform AI writing agent powered by Claude Sonnet 4.5, offering an end-to-end content creation workflow from ideation to publishing. It enforces 9 core principles like creative drainage, triple editing, and title optimization to reduce AI-like tone and enhance readability. Features style learning, personal素材库, and transparent 'Think Aloud' reasoning.",
+        "tags_zh": [
+          "AI写作助手",
+          "内容创作流程",
+          "风格迁移",
+          "多平台适配"
+        ],
+        "tags_en": [
+          "AI Writing Agent",
+          "Content Workflow",
+          "Style Transfer",
+          "Multi-Platform"
+        ]
+      },
+      "pushed_at": "2025-11-29",
+      "updated_at": "2026-02-26"
+    },
+    "google-gemini/gemini-cli": {
+      "metadata": {
+        "full_name": "google-gemini/gemini-cli",
+        "name": "gemini-cli",
+        "owner": "google-gemini",
+        "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+        "stars": 95781,
+        "language": "TypeScript",
+        "url": "https://github.com/google-gemini/gemini-cli",
+        "homepage": "https://geminicli.com",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "cli",
+          "gemini",
+          "gemini-api",
+          "mcp-client",
+          "mcp-server"
+        ],
+        "updated_at": "2026-02-26"
+      },
+      "summary": {
+        "zh": "Gemini CLI 是一个开源 AI 代理，将 Gemini 的强大能力直接引入终端。它提供轻量级访问，支持代码理解与生成、自动化任务、内置工具（如 Google 搜索、文件操作）以及 MCP 协议扩展，专为命令行开发者设计，免费层级支持每分钟 60 次请求。",
+        "en": "Gemini CLI is an open-source AI agent that brings Gemini's capabilities directly into the terminal. It offers lightweight access with code understanding, automation, built-in tools like Google Search and file operations, and extensible MCP support, designed for developers who work primarily in the command line.",
+        "tags_zh": [
+          "终端AI助手",
+          "Gemini模型",
+          "命令行工具",
+          "MCP协议"
+        ],
+        "tags_en": [
+          "Terminal AI Agent",
+          "Gemini Model",
+          "CLI Tool",
+          "MCP Protocol"
+        ]
+      },
+      "pushed_at": "2026-02-26",
+      "updated_at": "2026-02-26"
+    },
+    "VoltAgent/awesome-claude-code-subagents": {
+      "metadata": {
+        "full_name": "VoltAgent/awesome-claude-code-subagents",
+        "name": "awesome-claude-code-subagents",
+        "owner": "VoltAgent",
+        "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
+        "stars": 11522,
+        "language": "Shell",
+        "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+        "homepage": "https://github.com/VoltAgent/voltagent",
+        "topics": [
+          "ai-agent-framework",
+          "ai-agent-tools",
+          "ai-agents",
+          "awesome",
+          "awesome-list",
+          "claude",
+          "claude-ai",
+          "claude-code-subagents",
+          "claude-subagents",
+          "subagents"
+        ],
+        "updated_at": "2026-02-21"
+      },
+      "summary": {
+        "zh": "这是一个专为 Claude Code 设计的 100+ 专项子代理集合，覆盖 API 设计、前后端开发、DevOps、测试等全栈场景。支持插件化安装与分类管理，显著提升 AI 编程助手的任务专业化能力。",
+        "en": "A curated collection of 100+ specialized subagents for Claude Code, spanning full-stack development, DevOps, testing, and more. Enables modular installation and task-specific AI assistance to boost coding productivity.",
+        "tags_zh": [
+          "AI编程助手",
+          "Claude Code插件",
+          "智能开发代理",
+          "全栈开发工具"
+        ],
+        "tags_en": [
+          "AI Coding Assistant",
+          "Claude Code Plugin",
+          "Intelligent Dev Agents",
+          "Full-Stack Development"
+        ]
+      },
+      "pushed_at": "2026-02-21",
+      "updated_at": "2026-02-26"
+    },
+    "Scipline/Image_matting": {
+      "metadata": {
+        "full_name": "Scipline/Image_matting",
+        "name": "Image_matting",
+        "owner": "Scipline",
+        "description": "一键批量抠图。两种方法。一.使用remove.bg网站账号免费api额度，二.使用rembg和onnxruntime训练模型本地抠图",
+        "stars": 14,
+        "language": "Python",
+        "url": "https://github.com/Scipline/Image_matting",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2023-01-11"
+      },
+      "summary": {
+        "zh": "该项目提供一键批量图像抠图功能，支持两种模式：基于 remove.bg 免费 API 的在线抠图（精度高但依赖网络）和基于 rembg + ONNX 的本地模型抠图（速度快、清晰度高）。支持自动切换 API Key、批量处理、背景替换及规范文件命名，适用于无 GUI 需求的自动化场景。",
+        "en": "This project enables one-click batch image matting with two modes: online via remove.bg's free API (higher accuracy, requires internet) and local using rembg + ONNX (faster, higher resolution). It supports auto API key rotation, batch processing, background replacement, and standardized file naming, ideal for automated workflows without GUI.",
+        "tags_zh": [
+          "图像抠图",
+          "批量处理",
+          "ONNX模型",
+          "remove.bg"
+        ],
+        "tags_en": [
+          "Image Matting",
+          "Batch Processing",
+          "ONNX Model",
+          "remove.bg"
+        ]
+      },
+      "pushed_at": "2023-01-11",
+      "updated_at": "2026-02-26"
+    },
+    "dataease/SQLBot": {
+      "metadata": {
+        "full_name": "dataease/SQLBot",
+        "name": "SQLBot",
+        "owner": "dataease",
+        "description": "🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.",
+        "stars": 5566,
+        "language": "JavaScript",
+        "url": "https://github.com/dataease/SQLBot",
+        "homepage": "https://sqlbot.org/",
+        "topics": [
+          "chatbi",
+          "deepseek",
+          "llm",
+          "nl2sql",
+          "rag",
+          "sqlbot",
+          "text-to-sql",
+          "text2sql"
+        ],
+        "updated_at": "2026-02-24"
+      },
+      "summary": {
+        "zh": "SQLBot 是由 DataEase 团队开发的基于大模型与 RAG 技术的智能问数系统，支持自然语言转 SQL（Text-to-SQL），实现对话式数据分析。具备开箱即用、安全可控、易于集成和持续优化等核心优势，可快速嵌入各类应用平台，助力企业实现 ChatBI 能力。",
+        "en": "SQLBot is an intelligent data querying system powered by large language models and RAG technology, enabling natural language to SQL conversion for conversational data analysis. It offers out-of-the-box deployment, secure access control, easy integration via Web/MCP, and continuous optimization through user feedback, making ChatBI accessible across platforms.",
+        "tags_zh": [
+          "Text-to-SQL",
+          "RAG",
+          "智能问数",
+          "ChatBI"
+        ],
+        "tags_en": [
+          "Text-to-SQL",
+          "RAG",
+          "Conversational Analytics",
+          "ChatBI"
+        ]
+      },
+      "pushed_at": "2026-02-24",
+      "updated_at": "2026-02-26"
+    },
+    "ckanner/jta": {
+      "metadata": {
+        "full_name": "ckanner/jta",
+        "name": "jta",
+        "owner": "ckanner",
+        "description": "AI-powered JSON translation tool with agentic reflection using OpenAI, Anthropic, and Gemini APIs",
+        "stars": 126,
+        "language": "Go",
+        "url": "https://github.com/ckanner/jta",
+        "homepage": "",
+        "topics": [
+          "agentic-ai",
+          "ai",
+          "anthropic",
+          "cli",
+          "gemini",
+          "golang",
+          "i18n",
+          "json",
+          "llm",
+          "localization",
+          "openai",
+          "reflection",
+          "terminology",
+          "translation",
+          "translation-tool"
+        ],
+        "updated_at": "2025-11-12"
+      },
+      "summary": {
+        "zh": "Jta 是一款基于 AI 的 JSON 国际化文件翻译工具，支持 OpenAI、Anthropic 和 Gemini 多平台 API。其核心特性是代理式自省机制：AI 先翻译，再自我评估并优化结果，确保翻译在准确性、流畅性、风格适配和术语一致性上的高质量。支持增量翻译、术语管理和格式保护，适用于生产环境。",
+        "en": "Jta is an AI-powered JSON i18n translation tool supporting OpenAI, Anthropic, and Gemini APIs. Its key innovation is an agentic reflection mechanism: AI translates, then self-evaluates and refines output across accuracy, fluency, style, and terminology consistency. Features include incremental translation, terminology management, and format preservation for production use.",
+        "tags_zh": [
+          "AI翻译",
+          "JSON国际化",
+          "代理式自省",
+          "多语言支持"
+        ],
+        "tags_en": [
+          "AI Translation",
+          "JSON i18n",
+          "Agentic Reflection",
+          "Multilingual"
+        ]
+      },
+      "pushed_at": "2025-11-12",
+      "updated_at": "2026-02-26"
+    },
+    "github/spec-kit": {
+      "metadata": {
+        "full_name": "github/spec-kit",
+        "name": "spec-kit",
+        "owner": "github",
+        "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+        "stars": 72235,
+        "language": "Python",
+        "url": "https://github.com/github/spec-kit",
+        "homepage": "https://github.github.com/spec-kit/",
+        "topics": [
+          "ai",
+          "copilot",
+          "development",
+          "engineering",
+          "prd",
+          "spec",
+          "spec-driven"
+        ],
+        "updated_at": "2026-02-25"
+      },
+      "summary": {
+        "zh": "Spec Kit 是一个开源工具包，旨在通过规范驱动开发（Spec-Driven Development）提升软件开发效率与质量。它将传统文档式规范转化为可执行的代码生成流程，结合 AI 助手实现从产品场景描述到高质量代码的自动化构建，减少重复编码，聚焦业务逻辑与可预测结果。",
+        "en": "Spec Kit is an open-source toolkit that enables Spec-Driven Development, transforming traditional specifications into executable workflows. By integrating AI agents, it automates code generation from high-level product scenarios, reducing boilerplate coding and ensuring consistent, high-quality software outcomes.",
+        "tags_zh": [
+          "规范驱动开发",
+          "AI代码生成",
+          "CLI工具"
+        ],
+        "tags_en": [
+          "Spec-Driven Development",
+          "AI Code Generation",
+          "CLI Tool"
+        ]
+      },
+      "pushed_at": "2026-02-25",
+      "updated_at": "2026-02-26"
+    },
+    "xunbu/docutranslate": {
+      "metadata": {
+        "full_name": "xunbu/docutranslate",
+        "name": "docutranslate",
+        "owner": "xunbu",
+        "description": "文档（小说、论文、字幕）翻译工具（支持 pdf/word/excel/json/epub/srt...）Document (Novel, Thesis, Subtitle) Translation Tool (Supports pdf/word/excel/json/epub/srt...)",
+        "stars": 789,
+        "language": "Python",
+        "url": "https://github.com/xunbu/docutranslate",
+        "homepage": "",
+        "topics": [
+          "file-transla",
+          "llm",
+          "pdf-converter",
+          "pdf-translator",
+          "translate"
+        ],
+        "updated_at": "2026-02-25"
+      },
+      "summary": {
+        "zh": "DocuTranslate 是一款基于大语言模型的轻量级本地文档翻译工具，支持 PDF、Word、Excel、JSON、EPUB、SRT 等十余种格式，具备表格公式识别、术语表自动生成、多AI平台并发调用及异步处理能力，提供 Web 界面与 RESTful API，适用于小说、论文、字幕等场景，兼顾格式保留与高效翻译。",
+        "en": "DocuTranslate is a lightweight local document translation tool powered by large language models, supporting formats like PDF, DOCX, XLSX, JSON, EPUB, and SRT. It features table/formula recognition, auto-generated glossaries, multi-AI platform concurrency, async processing, Web UI, and RESTful API, ideal for translating novels, academic papers, and subtitles while preserving formatting.",
+        "tags_zh": [
+          "文档翻译",
+          "多格式支持",
+          "大模型驱动",
+          "本地部署"
+        ],
+        "tags_en": [
+          "Document Translation",
+          "Multi-format Support",
+          "LLM-powered",
+          "Local Deployment"
         ]
       },
       "pushed_at": "2026-02-25",
