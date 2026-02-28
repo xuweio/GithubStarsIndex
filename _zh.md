@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-02-28 07:16 UTC · Total: 228
+> Updated: 2026-02-28 07:31 UTC · Total: 228
 
 ---
 
@@ -239,7 +239,7 @@
 ## huggingface/skills
 
 > [!info]
-> ⭐ 7,395 · Python · 2026-02-27  
+> ⭐ 7,397 · Python · 2026-02-27  
 > [GitHub](https://github.com/huggingface/skills)  
 > 
 > 生成失败
@@ -328,7 +328,7 @@
 ## cheahjs/free-llm-api-resources
 
 > [!info]
-> ⭐ 12,918 · Python · 2026-02-28  
+> ⭐ 12,919 · Python · 2026-02-28  
 > [GitHub](https://github.com/cheahjs/free-llm-api-resources)  
 > `#ai` `#claude` `#gemini` `#llama` `#llm` `#openai` 
 > 生成失败
@@ -338,7 +338,7 @@
 ## hesamsheikh/awesome-openclaw-usecases
 
 > [!info]
-> ⭐ 12,024 · N/A · 2026-02-27  
+> ⭐ 12,053 · N/A · 2026-02-27  
 > [GitHub](https://github.com/hesamsheikh/awesome-openclaw-usecases)  
 > `#awesome-list` `#clawdbot` `#moltbot` `#openclaw` `#openclaw-plugin` `#openclaw-setup` `#openclaw-skills` `#usecase` 
 > 生成失败
@@ -348,7 +348,7 @@
 ## HKUDS/nanobot
 
 > [!info]
-> ⭐ 26,573 · Python · 2026-02-28  
+> ⭐ 26,590 · Python · 2026-02-28  
 > [GitHub](https://github.com/HKUDS/nanobot)  
 > `#轻量级AI助手` `#多平台通信` `#MCP协议` `#模块化架构` 
 > nanobot 是一款超轻量级个人 AI 助手，仅约 4000 行代码实现核心智能体功能，体积比同类项目小 99%。支持多平台通信（Slack、Discord、飞书等）、MCP 协议、多模态输入与记忆系统，具备高可靠性与模块化设计，适合快速部署与二次开发。
@@ -378,7 +378,7 @@
 ## miaoxworld/OpenClawInstaller
 
 > [!info]
-> ⭐ 2,144 · Shell · 2026-02-03  
+> ⭐ 2,147 · Shell · 2026-02-03  
 > [GitHub](https://github.com/miaoxworld/OpenClawInstaller)  
 > `#clawdbot` `#moltbot` `#openclaw` 
 > 生成失败
@@ -388,7 +388,7 @@
 ## openclaw/openclaw
 
 > [!info]
-> ⭐ 238,184 · TypeScript · 2026-02-28  
+> ⭐ 238,267 · TypeScript · 2026-02-28  
 > [GitHub](https://github.com/openclaw/openclaw) · [Website](https://openclaw.ai)  
 > `#ai` `#assistant` `#crustacean` `#molty` `#openclaw` `#own-your-data` `#personal` 
 > 生成失败
@@ -437,7 +437,7 @@
 ## nguyenphutrong/quotio
 
 > [!info]
-> ⭐ 3,778 · Swift · 2026-02-23  
+> ⭐ 3,779 · Swift · 2026-02-23  
 > [GitHub](https://github.com/nguyenphutrong/quotio) · [Website](https://www.quotio.dev)  
 > `#ai-tools` `#developer-tools` `#proxy` `#quota-monitor` 
 > 生成失败
@@ -457,7 +457,7 @@
 ## 666ghj/MiroFish
 
 > [!info]
-> ⭐ 4,284 · Python · 2026-02-27  
+> ⭐ 4,285 · Python · 2026-02-27  
 > [GitHub](https://github.com/666ghj/MiroFish) · [Website](https://666ghj.github.io/mirofish-demo/)  
 > `#agent-memory` `#financial-forecasting` `#future-prediction` `#knowledge-graph` `#llms` `#multi-agent-simulation` `#public-opinion-analysis` `#python3` `#social-prediction` `#swarm-intelligence` 
 > 生成失败
@@ -467,7 +467,7 @@
 ## ZhuLinsen/daily_stock_analysis
 
 > [!info]
-> ⭐ 14,388 · Python · 2026-02-27  
+> ⭐ 14,395 · Python · 2026-02-27  
 > [GitHub](https://github.com/ZhuLinsen/daily_stock_analysis)  
 > `#agent` `#ai` `#aigc` `#gemini` `#llm` `#quant` `#quantitative-trading` `#rag` `#stock` 
 > 生成失败
@@ -477,7 +477,7 @@
 ## PleasePrompto/notebooklm-skill
 
 > [!info]
-> ⭐ 3,895 · Python · 2025-11-21  
+> ⭐ 3,896 · Python · 2025-11-21  
 > [GitHub](https://github.com/PleasePrompto/notebooklm-skill)  
 > 
 > 生成失败
@@ -536,7 +536,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 149,761 · HTML · 2026-01-09  
+> ⭐ 149,765 · HTML · 2026-01-09  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://domain.digitalplat.org)  
 > `#digitalplat` `#domain` `#domain-platform` `#domainname` `#domains` `#free` `#freedomain` 
 > 生成失败
@@ -684,7 +684,7 @@
 ## MetaCubeX/mihomo
 
 > [!info]
-> ⭐ 27,198 · Python · 2026-02-27  
+> ⭐ 27,199 · Python · 2026-02-27  
 > [GitHub](https://github.com/MetaCubeX/mihomo) · [Website](https://wiki.metacubex.one)  
 > `#Pydantic` `#API 解析` `#崩坏星穹铁道` `#数据模型` `#honkai-star-rail` `#mihomo` `#python` `#star-rail-api` 
 > mihomo 是一个基于 Pydantic 的 Python 库，用于解析《崩坏：星穹铁道》的 Mihomo API 数据，提供类型提示与自动补全支持。支持 V1/V2 两种数据格式，包含角色、成就、头像等结构化信息，并提供去重、合并、持久化等实用工具。
@@ -734,7 +734,7 @@
 ## 666ghj/BettaFish
 
 > [!info]
-> ⭐ 35,853 · Python · 2026-02-11  
+> ⭐ 35,854 · Python · 2026-02-11  
 > [GitHub](https://github.com/666ghj/BettaFish) · [Website](https://deepwiki.com/666ghj/BettaFish)  
 > `#多智能体系统` `#舆情分析` `#多模态处理` `#自主数据采集` `#agent-framework` `#data-analysis` `#deep-research` `#deep-search` `#llms` `#multi-agent-system` `#nlp` `#public-opinion-analysis` `#python3` `#sentiment-analysis` 
 > 微舆（BettaFish）是一个从零构建的多智能体舆情分析系统，支持全自动采集国内外30+社媒平台数据，融合微调模型与统计模型，通过Agent“论坛”协作机制实现深度舆情还原与趋势预测。具备多模态解析、公私域数据融合及轻量化部署能力，助力打破信息茧房，辅助智能决策。
@@ -813,7 +813,7 @@
 ## eooce/Auto-deploy-sap-and-keepalive
 
 > [!info]
-> ⭐ 701 · JavaScript · 2026-02-14  
+> ⭐ 702 · JavaScript · 2026-02-14  
 > [GitHub](https://github.com/eooce/Auto-deploy-sap-and-keepalive)  
 > `#sap` `#trojan` `#vless-ws-tls` `#vmess` `#vmess-ws-tls` 
 > 生成失败
@@ -883,7 +883,7 @@
 ## GMOogway/shadowrocket-rules
 
 > [!info]
-> ⭐ 4,090 · N/A · 2026-02-27  
+> ⭐ 4,092 · N/A · 2026-02-27  
 > [GitHub](https://github.com/GMOogway/shadowrocket-rules)  
 > `#adblock` `#direct` `#gfw` `#gfwlist` `#ios` `#module` `#proxy` `#reject` `#rules` `#shadowrocket` `#ss` `#v2ray` `#xray` 
 > 生成失败
@@ -933,7 +933,7 @@
 ## enescingoz/awesome-n8n-templates
 
 > [!info]
-> ⭐ 19,538 · N/A · 2025-11-02  
+> ⭐ 19,539 · N/A · 2025-11-02  
 > [GitHub](https://github.com/enescingoz/awesome-n8n-templates) · [Website](https://n8n.partnerlinks.io/h1pwwf5m4toe)  
 > `#automation` `#automation-templates` `#integration` `#n8n` `#n8n-automation` `#n8n-template` `#no-code-ai` `#no-code-automation` `#workflow-automation` 
 > 生成失败
@@ -943,7 +943,7 @@
 ## KroMiose/claude-code-nexus
 
 > [!info]
-> ⭐ 234 · TypeScript · 2025-08-20  
+> ⭐ 235 · TypeScript · 2025-08-20  
 > [GitHub](https://github.com/KroMiose/claude-code-nexus) · [Website](https://claude.nekro.ai/)  
 > `#claude` `#claude-code` `#cloudflare` `#oneapi` `#openai` `#worker` 
 > 生成失败
@@ -953,7 +953,7 @@
 ## Zie619/n8n-workflows
 
 > [!info]
-> ⭐ 52,278 · Python · 2026-02-11  
+> ⭐ 52,280 · Python · 2026-02-11  
 > [GitHub](https://github.com/Zie619/n8n-workflows)  
 > `#n8n工作流` `#AI安全扫描` `#自动化集成` `#合规审计` 
 > 该仓库汇集了4343+个n8n自动化工作流，涵盖365+种集成，是n8n生态中最全面的公开工作流集合。同时引入AI-BOM工具，首次实现对n8n工作流中AI安全风险（如硬编码密钥、未认证AI代理、MCP客户端等）的自动化扫描，支持生成合规报告，助力满足欧盟AI法案要求。
@@ -1002,7 +1002,7 @@
 ## linshenkx/prompt-optimizer
 
 > [!info]
-> ⭐ 22,345 · TypeScript · 2026-02-10  
+> ⭐ 22,344 · TypeScript · 2026-02-10  
 > [GitHub](https://github.com/linshenkx/prompt-optimizer) · [Website](https://prompt.always200.com)  
 > `#提示词优化` `#多模型集成` `#AI提示工程` `#图像生成` `#llm` `#prompt` `#prompt-engineering` `#prompt-optimization` `#prompt-toolkit` `#prompt-tuning` 
 > Prompt Optimizer 是一款专注于提升AI提示词质量的智能优化工具，支持多模型集成（OpenAI、Gemini、DeepSeek等）、双模式优化、对比测试及图像生成功能。提供Web、桌面、Chrome插件和Docker四种部署方式，采用纯客户端架构保障数据安全，适用于角色扮演、知识图谱提取、创意写作等场景，助力开发者降本增效。
@@ -1032,7 +1032,7 @@
 ## czlonkowski/n8n-mcp
 
 > [!info]
-> ⭐ 14,081 · TypeScript · 2026-02-22  
+> ⭐ 14,082 · TypeScript · 2026-02-22  
 > [GitHub](https://github.com/czlonkowski/n8n-mcp) · [Website](https://www.n8n-mcp.com/)  
 > `#mcp` `#mcp-server` `#n8n` `#workflows` 
 > 生成失败
@@ -1111,7 +1111,7 @@
 ## Shubhamsaboo/awesome-llm-apps
 
 > [!info]
-> ⭐ 97,890 · Python · 2026-02-25  
+> ⭐ 97,896 · Python · 2026-02-25  
 > [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps) · [Website](https://www.theunwindai.com)  
 > `#agents` `#llms` `#python` `#rag` 
 > 生成失败
@@ -1121,7 +1121,7 @@
 ## sansan0/TrendRadar
 
 > [!info]
-> ⭐ 47,528 · Python · 2026-02-09  
+> ⭐ 47,530 · Python · 2026-02-09  
 > [GitHub](https://github.com/sansan0/TrendRadar) · [Website](https://sansan0.github.io/TrendRadar/)  
 > `#AI舆情监控` `#多平台聚合` `#智能推送` `#MCP集成` `#ai` `#bark` `#data-analysis` `#docker` `#hot-news` `#llm` `#mail` `#mcp` `#mcp-server` `#news` `#ntfy` `#python` `#rss` `#trending-topics` `#wechat` `#wework` 
 > TrendRadar 是一款 AI 驱动的舆情监控与热点筛选工具，支持多平台热点聚合与 RSS 订阅，具备关键词筛选、AI 翻译、智能分析简报推送等功能。集成 MCP 架构实现自然语言对话分析与趋势预测，支持 Docker 部署及微信/飞书/钉钉/Telegram 等多渠道推送，助力用户高效应对信息过载。
@@ -1161,7 +1161,7 @@
 ## punkpeye/awesome-mcp-servers
 
 > [!info]
-> ⭐ 81,767 · N/A · 2026-02-26  
+> ⭐ 81,770 · N/A · 2026-02-26  
 > [GitHub](https://github.com/punkpeye/awesome-mcp-servers) · [Website](https://glama.ai/mcp/servers)  
 > `#MCP协议` `#AI上下文扩展` `#服务器实现` `#ai` `#mcp` 
 > 这是一个精选的 Model Context Protocol (MCP) 服务器集合，涵盖文件访问、数据库连接、API 集成等功能，支持本地与云端服务，提供多语言实现和跨平台支持，助力 AI 模型扩展上下文能力。
@@ -1181,7 +1181,7 @@
 ## u14app/deep-research
 
 > [!info]
-> ⭐ 4,474 · JavaScript · 2026-02-10  
+> ⭐ 4,475 · JavaScript · 2026-02-10  
 > [GitHub](https://github.com/u14app/deep-research) · [Website](https://research.u14.app)  
 > `#大语言模型` `#深度研究` `#本地隐私` `#知识图谱` `#anthropic` `#deep-research` `#deep-research-api` `#deepresearch` `#deepseek` `#gemini` `#grok` `#mcp-server` `#ollama` `#openai` 
 > Deep Research 是一款基于多模态大语言模型（LLM）的深度研究工具，支持 Gemini、OpenAI、Ollama 等主流模型，集成 SSE API 与 MCP 服务器。具备网页搜索、本地知识库、知识图谱生成、研究历史记录等功能，可在约2分钟内生成高质量研究报告，数据全程本地处理，保障隐私安全，支持 Vercel 与 Cloudflare 快速部署。
@@ -1321,7 +1321,7 @@
 ## MarSeventh/CloudFlare-ImgBed
 
 > [!info]
-> ⭐ 4,466 · JavaScript · 2026-02-28  
+> ⭐ 4,467 · JavaScript · 2026-02-28  
 > [GitHub](https://github.com/MarSeventh/CloudFlare-ImgBed) · [Website](https://cfbed.sanyue.de)  
 > `#cloudflare-pages` `#cloudflare-r2` `#discord` `#gallery` `#huggingface` `#imgbed` `#netdisk` `#s3` `#telegram-bot` 
 > 生成失败
@@ -1351,7 +1351,7 @@
 ## PDFMathTranslate/PDFMathTranslate
 
 > [!info]
-> ⭐ 31,930 · Python · 2025-11-25  
+> ⭐ 31,931 · Python · 2025-11-25  
 > [GitHub](https://github.com/PDFMathTranslate/PDFMathTranslate) · [Website](https://pdf2zh.com)  
 > `#chinese` `#document` `#edit` `#english` `#japanese` `#korean` `#latex` `#math` `#mcp` `#modify` `#obsidian` `#openai` `#pdf` `#pdf2zh` `#python` `#russian` `#translate` `#translation` `#zotero` 
 > 生成失败
@@ -1451,7 +1451,7 @@
 ## wechat-article/wechat-article-exporter
 
 > [!info]
-> ⭐ 7,186 · TypeScript · 2026-02-10  
+> ⭐ 7,188 · TypeScript · 2026-02-10  
 > [GitHub](https://github.com/wechat-article/wechat-article-exporter) · [Website](https://down.mptext.top)  
 > `#download` `#wechat` `#wechat-article` `#wechat-download` 
 > 生成失败
@@ -1521,7 +1521,7 @@
 ## hiddify/hiddify-app
 
 > [!info]
-> ⭐ 26,805 · Dart · 2026-02-27  
+> ⭐ 26,806 · Dart · 2026-02-27  
 > [GitHub](https://github.com/hiddify/hiddify-app) · [Website](https://hiddify.com)  
 > `#代理客户端` `#Sing-box` `#多协议支持` `#跨平台` `#clash` `#clashmeta` `#ech` `#hysteria` `#hysteria2` `#proxy` `#reality` `#shadowsocks` `#shadowtls` `#sing-box` `#singbox` `#ssh` `#tuic` `#v2ray` `#vless` `#vmess` `#wireguard` `#xray` 
 > Hiddify 是一款基于 Sing-box 的多平台代理客户端，支持 Vless、Vmess、Reality、TUIC、Hysteria、Wireguard、SSH 等协议，具备自动节点选择、TUN 模式、远程配置订阅等功能。开源无广告，适用于 Android、iOS、Windows、macOS 和 Linux，专为伊朗、中国、俄罗斯等地区优化，提供安全私密的网络访问。
@@ -1739,7 +1739,7 @@
 ## hiroi-sora/Umi-OCR
 
 > [!info]
-> ⭐ 42,274 · Python · 2025-11-20  
+> ⭐ 42,276 · Python · 2025-11-20  
 > [GitHub](https://github.com/hiroi-sora/Umi-OCR)  
 > `#OCR识别` `#离线文字识别` `#批量PDF处理` `#二维码生成` `#ocr` `#ocr-python` `#paddleocr` `#qml` `#qt` `#screenshot` `#umi-ocr` 
 > Umi-OCR 是一款开源、免费且完全离线的文字识别工具，支持截图识别、批量图片/PDF处理、二维码扫描与生成，内置多语言OCR引擎，可排除水印区域，并提供命令行与HTTP接口调用，适用于Windows和Linux系统。
@@ -1779,7 +1779,7 @@
 ## Loyalsoldier/clash-rules
 
 > [!info]
-> ⭐ 24,733 · N/A · 2026-02-27  
+> ⭐ 24,736 · N/A · 2026-02-27  
 > [GitHub](https://github.com/Loyalsoldier/clash-rules)  
 > `#Clash规则集` `#科学上网` `#域名分流` `#广告拦截` `#adblock` `#adguard` `#anticensorship` `#chinalist` `#clash` `#dnsmasq` `#easylist` `#geosite` `#gfw` `#gfwlist` `#proxy` `#routing` `#shadowsocks` `#ss` `#ssr` `#surge` `#v2ray` 
 > 该项目为 Clash Premium 内核提供高质量规则集（RULE-SET），涵盖直连、代理与广告拦截域名列表，兼容 ClashX Pro、Clash for Windows 等主流客户端。数据源自 v2ray-rules-dat 与 dnsmasq-china-list，每日自动更新，支持 TUN 模式全流量接管，适用于多平台科学上网与网络优化。
@@ -1839,7 +1839,7 @@
 ## chatanywhere/GPT_API_free
 
 > [!info]
-> ⭐ 36,257 · Python · 2026-01-10  
+> ⭐ 36,259 · Python · 2026-01-10  
 > [GitHub](https://github.com/chatanywhere/GPT_API_free) · [Website](https://api.chatanywhere.tech)  
 > `#大模型API` `#免费中转` `#OpenAI兼容` `#api` `#chatgpt` `#claude` `#deepseek` `#gemini` `#gpt` `#grok` 
 > 该项目提供免费且稳定的 GPT、DeepSeek、Claude、Gemini 等主流大模型 API 转发服务，支持国内直连无需代理，兼容 OpenAI 标准协议，接口一致、接入便捷。免费版每日限额调用，付费版支持更高性能与无限使用，适合个人开发、教育及非商用场景。
@@ -1878,7 +1878,7 @@
 ## hehonghui/awesome-english-ebooks
 
 > [!info]
-> ⭐ 29,229 · CSS · 2026-02-27  
+> ⭐ 29,230 · CSS · 2026-02-27  
 > [GitHub](https://github.com/hehonghui/awesome-english-ebooks)  
 > `#download` `#ebooks` `#economist` `#economist-ebooks` `#new-yorker` `#pdf` 
 > 生成失败
@@ -1948,7 +1948,7 @@
 ## Johnshall/Shadowrocket-ADBlock-Rules-Forever
 
 > [!info]
-> ⭐ 23,135 · N/A · 2026-02-27  
+> ⭐ 23,136 · N/A · 2026-02-27  
 > [GitHub](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) · [Website](https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/)  
 > `#adblock` `#gfw` `#proxy` `#shadowrocket` `#v2ray` 
 > 生成失败
@@ -1958,7 +1958,7 @@
 ## PlexPt/awesome-chatgpt-prompts-zh
 
 > [!info]
-> ⭐ 58,466 · N/A · 2025-01-01  
+> ⭐ 58,467 · N/A · 2025-01-01  
 > [GitHub](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) · [Website](https://chat.aimakex.com/)  
 > `#ChatGPT提示工程` `#中文AI写作` `#大模型应用指南` `#chat-gpt` `#chatgpt` `#chatgpt3` `#chatgpt4` `#gpt` 
 > 本仓库提供全面的ChatGPT中文调教指南，涵盖学术论文、创意写作、商业文案、技术文档、翻译、数据分析等数十种应用场景，帮助用户掌握高效提示词设计技巧，充分发挥GPT-3.5与GPT-4的生成能力，提升AI输出质量与实用性。
@@ -1968,7 +1968,7 @@
 ## sub-store-org/Sub-Store
 
 > [!info]
-> ⭐ 8,786 · JavaScript · 2026-02-26  
+> ⭐ 8,787 · JavaScript · 2026-02-26  
 > [GitHub](https://github.com/sub-store-org/Sub-Store)  
 > `#clash` `#http` `#loon` `#quantumultx` `#shadowrocket` `#shadowsocks` `#shadowsocksr` `#ssr` `#stash` `#surge4` `#trojan` `#vmess` 
 > 生成失败
@@ -2048,7 +2048,7 @@
 ## GrowingGit/GitHub-Chinese-Top-Charts
 
 > [!info]
-> ⭐ 106,381 · Java · 2024-10-12  
+> ⭐ 106,382 · Java · 2024-10-12  
 > [GitHub](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)  
 > `#开源项目排行` `#中文开发者` `#GitHub榜单` 
 > GitHub中文排行榜是一个专注于发现和推荐优质中文开源项目的平台，按编程语言和类别（软件/资料）设立总榜、增速榜和新秀榜，帮助用户无语言障碍地高效学习与交流，精准定位高质量中文项目。
@@ -2207,7 +2207,7 @@
 ## 521xueweihan/HelloGitHub
 
 > [!info]
-> ⭐ 144,104 · Python · 2026-02-28  
+> ⭐ 144,105 · Python · 2026-02-28  
 > [GitHub](https://github.com/521xueweihan/HelloGitHub) · [Website](https://hellogithub.com)  
 > `#开源推荐` `#入门项目` `#月刊` `#awesome` `#github` `#hellogithub` `#python` 
 > HelloGitHub 是一个专注于分享 GitHub 上有趣、适合入门的开源项目的中文社区项目，每月28日发布月刊，涵盖开源项目、书籍、实战案例等，帮助开发者快速发现优质资源，激发对开源的兴趣与参与热情。
@@ -2355,7 +2355,7 @@
 ## iptv-org/iptv
 
 > [!info]
-> ⭐ 112,127 · TypeScript · 2026-02-28  
+> ⭐ 112,131 · TypeScript · 2026-02-28  
 > [GitHub](https://github.com/iptv-org/iptv) · [Website](https://iptv-org.github.io)  
 > `#iptv` `#m3u` `#playlist` `#streams` `#tv` 
 > 生成失败
@@ -2405,7 +2405,7 @@
 ## awesome-selfhosted/awesome-selfhosted
 
 > [!info]
-> ⭐ 275,740 · N/A · 2026-02-27  
+> ⭐ 275,742 · N/A · 2026-02-27  
 > [GitHub](https://github.com/awesome-selfhosted/awesome-selfhosted) · [Website](https://awesome-selfhosted.net/)  
 > `#awesome` `#awesome-list` `#cloud` `#free-software` `#hosting` `#privacy` `#self-hosted` `#selfhosted` 
 > 生成失败
@@ -2485,7 +2485,7 @@
 ## GitHubDaily/GitHubDaily
 
 > [!info]
-> ⭐ 45,360 · N/A · 2025-12-31  
+> ⭐ 45,361 · N/A · 2025-12-31  
 > [GitHub](https://github.com/GitHubDaily/GitHubDaily) · [Website](https://githubdaily.com)  
 > `#ai` `#algorithms-and-data-structures` `#backend` `#developer-tools` `#development` `#frontend` `#github` `#java` `#javascript` `#kubernetes` `#linux` `#markdown` `#open-source` `#python` `#tutorials` `#web` 
 > 生成失败
