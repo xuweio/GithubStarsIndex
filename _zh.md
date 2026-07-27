@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-07-26 19:45 UTC · Total: 305
+> Updated: 2026-07-27 20:05 UTC · Total: 305
 
 ---
 
@@ -316,7 +316,7 @@
 ## xbtlin/ai-berkshire
 
 > [!info]
-> ⭐ 14,196 · Python · 2026-07-26T19:07:59Z  
+> ⭐ 14,426 · Python · 2026-07-27T18:37:50Z  
 > [GitHub](https://github.com/xbtlin/ai-berkshire) · [Website](https://github.com/xbtlin/ai-berkshire#readme)  
 > `#ai` `#ai-agent` `#anthropic` `#berkshire-hathaway` `#charlie-munger` `#china-stock` `#claude` `#claude-code` `#financial-analysis` `#fintech` `#fundamental-analysis` `#investment` `#investment-research` `#llm` `#mcp` `#portfolio-management` `#stock-analysis` `#stock-market` `#value-investing` `#warren-buffett` 
 > 生成失败
@@ -326,7 +326,7 @@
 ## hello245m/free-stockdb
 
 > [!info]
-> ⭐ 946 · HTML · 2026-07-26T18:59:29Z  
+> ⭐ 1,222 · HTML · 2026-07-27T19:48:19Z  
 > [GitHub](https://github.com/hello245m/free-stockdb)  
 > `#a-share` `#algorithmic-trading` `#backtesting` `#china-stock-market` `#kline` `#local-first` `#market-data` `#mcp` `#quant-research` `#quantitative-finance` `#stock-data` `#stock-market` `#technical-analysis` `#time-series-database` 
 > 生成失败
@@ -336,7 +336,7 @@
 ## bozhouDev/codex-orange-book
 
 > [!info]
-> ⭐ 3,085 · HTML · 2026-07-26T18:14:24Z  
+> ⭐ 3,093 · HTML · 2026-07-27T16:19:37Z  
 > [GitHub](https://github.com/bozhouDev/codex-orange-book) · [Website](https://codex.bozhouai.com/)  
 > 
 > 生成失败
@@ -346,7 +346,7 @@
 ## andrewyng/openworker
 
 > [!info]
-> ⭐ 6,454 · Python · 2026-07-26T19:37:53Z  
+> ⭐ 8,477 · Python · 2026-07-27T19:58:03Z  
 > [GitHub](https://github.com/andrewyng/openworker)  
 > 
 > 生成失败
@@ -355,7 +355,7 @@
 ## astaxie/TokenHub
 
 > [!info]
-> ⭐ 691 · Go · 2026-07-26T17:51:56Z  
+> ⭐ 729 · Go · 2026-07-27T17:32:59Z  
 > [GitHub](https://github.com/astaxie/TokenHub) · [Website](https://thinkinai-labs.github.io/tokenhome/)  
 > `#ai` `#ai-gateway` `#enterprise` `#gateway` 
 > 生成失败
@@ -365,7 +365,7 @@
 ## AZeC4/TelegramGroup
 
 > [!info]
-> ⭐ 22,421 · N/A · 2026-07-26T18:21:32Z  
+> ⭐ 22,439 · N/A · 2026-07-27T19:45:29Z  
 > [GitHub](https://github.com/AZeC4/TelegramGroup) · [Website](https://dianbaodaohang.com)  
 > `#telegram` `#telegram-api` `#telegram-bot` `#telegram-bot-api` `#telegram-bots` `#telegram-channel` `#telegramgroups` 
 > 生成失败
@@ -375,7 +375,7 @@
 ## hefengxian/my-ielts
 
 > [!info]
-> ⭐ 2,605 · Vue · 2026-07-26T18:08:10Z  
+> ⭐ 2,635 · Vue · 2026-07-27T18:02:00Z  
 > [GitHub](https://github.com/hefengxian/my-ielts) · [Website](https://hefengxian.github.io/my-ielts/)  
 > `#ielts` `#ielts-exam` `#ielts-listening` `#ielts-notes` `#ielts-reading` `#ielts-speaking` `#ielts-writing` 
 > 生成失败
@@ -385,7 +385,7 @@
 ## rollingSirius/equity-research-skill
 
 > [!info]
-> ⭐ 208 · Python · 2026-07-26T16:19:48Z  
+> ⭐ 214 · Python · 2026-07-27T15:21:30Z  
 > [GitHub](https://github.com/rollingSirius/equity-research-skill) · [Website](https://x.com/rollingSirius)  
 > `#agent-skills` `#ai` `#dcf` `#equity-research` `#investing` `#stock-analysis` `#valuation` 
 > 生成失败
@@ -395,7 +395,7 @@
 ## Git-creat7/grokRegister-cpa
 
 > [!info]
-> ⭐ 535 · Python · 2026-07-26T19:08:27Z  
+> ⭐ 546 · Python · 2026-07-27T15:22:11Z  
 > [GitHub](https://github.com/Git-creat7/grokRegister-cpa)  
 > 
 > 生成失败
@@ -405,7 +405,7 @@
 ## AaronL725/grok-register
 
 > [!info]
-> ⭐ 1,656 · Python · 2026-07-26T18:46:48Z  
+> ⭐ 1,680 · Python · 2026-07-27T16:25:39Z  
 > [GitHub](https://github.com/AaronL725/grok-register)  
 > `#automation` `#cli` `#drissionpage` `#grok2api` `#python` `#tkinter` 
 > 生成失败
@@ -415,7 +415,7 @@
 ## HSJ-BanFan/grok-register-web
 
 > [!info]
-> ⭐ 168 · Python · 2026-07-26T14:37:04Z  
+> ⭐ 172 · Python · 2026-07-27T10:39:14Z  
 > [GitHub](https://github.com/HSJ-BanFan/grok-register-web)  
 > 
 > 生成失败
@@ -425,7 +425,7 @@
 ## xuchonglang/investing-for-beginners
 
 > [!info]
-> ⭐ 2,642 · N/A · 2026-07-26T19:36:58Z  
+> ⭐ 2,655 · N/A · 2026-07-27T16:06:46Z  
 > [GitHub](https://github.com/xuchonglang/investing-for-beginners) · [Website](https://xiaoyinsi.com/wiki)  
 > `#chinese` `#cryptocurrency` `#investing` `#options` `#xiaoyinsi` 
 > 生成失败
@@ -435,7 +435,7 @@
 ## laoma2053/awesome-zhuiju-free
 
 > [!info]
-> ⭐ 4,642 · JavaScript · 2026-07-26T18:57:36Z  
+> ⭐ 4,728 · JavaScript · 2026-07-27T17:40:42Z  
 > [GitHub](https://github.com/laoma2053/awesome-zhuiju-free) · [Website](https://zhuiju.me)  
 > `#awesome-list` `#bt-search` `#chinese` `#cloud-drive-search` `#free` `#free-streaming` `#iptv` `#magnet-search` `#media-player` `#movie` `#movie-guide` `#movie-resources` `#no-ads` `#subtitles` `#tvbox` `#tvbox-config` 
 > 生成失败
@@ -445,7 +445,7 @@
 ## 3899/SimAdmin
 
 > [!info]
-> ⭐ 609 · Rust · 2026-07-26T15:21:24Z  
+> ⭐ 610 · Rust · 2026-07-27T15:21:16Z  
 > [GitHub](https://github.com/3899/SimAdmin)  
 > 
 > 生成失败
@@ -455,7 +455,7 @@
 ## CheshireMew/Price-action-analysis
 
 > [!info]
-> ⭐ 54 · Python · 2026-07-21T03:18:32Z  
+> ⭐ 55 · Python · 2026-07-27T14:47:44Z  
 > [GitHub](https://github.com/CheshireMew/Price-action-analysis)  
 > 
 > 生成失败
@@ -465,7 +465,7 @@
 ## hasaneyldrm/exercises-dataset
 
 > [!info]
-> ⭐ 17,006 · HTML · 2026-07-26T19:25:25Z  
+> ⭐ 17,157 · HTML · 2026-07-27T19:51:53Z  
 > [GitHub](https://github.com/hasaneyldrm/exercises-dataset)  
 > `#dataset` `#exercise-database` `#exercises` `#fitness` `#fitness-app` `#gym` `#json` `#logpress` `#react-native` `#workout` 
 > 生成失败
@@ -475,7 +475,7 @@
 ## rahilp/second-brain-cloudflare
 
 > [!info]
-> ⭐ 653 · TypeScript · 2026-07-26T14:29:31Z  
+> ⭐ 661 · TypeScript · 2026-07-27T16:29:07Z  
 > [GitHub](https://github.com/rahilp/second-brain-cloudflare) · [Website](https://www.thesecondbrain.dev)  
 > `#ai-memory` `#claude` `#claude-ai` `#claude-code` `#cloudflare` `#cloudflare-workers` `#d1` `#ios-shortcuts` `#mcp` `#model-context-protocol` `#obsidian-plugin` `#personal-knowledge-management` `#second-brain` `#semantic-search` `#typescript` `#vectorize` `#workers` 
 > 生成失败
@@ -495,7 +495,7 @@
 ## LingJingMaster/Shadowrocket-Rules
 
 > [!info]
-> ⭐ 389 · N/A · 2026-07-26T06:41:07Z  
+> ⭐ 391 · N/A · 2026-07-27T16:50:02Z  
 > [GitHub](https://github.com/LingJingMaster/Shadowrocket-Rules)  
 > 
 > 生成失败
@@ -505,7 +505,7 @@
 ## Lakr233/Asspp
 
 > [!info]
-> ⭐ 5,729 · Swift · 2026-07-26T16:04:59Z  
+> ⭐ 5,730 · Swift · 2026-07-27T07:58:15Z  
 > [GitHub](https://github.com/Lakr233/Asspp)  
 > 
 > 生成失败
@@ -515,7 +515,7 @@
 ## kenzok8/openwrt-daede
 
 > [!info]
-> ⭐ 388 · JavaScript · 2026-07-26T17:50:54Z  
+> ⭐ 392 · JavaScript · 2026-07-27T19:16:05Z  
 > [GitHub](https://github.com/kenzok8/openwrt-daede)  
 > 
 > 生成失败
@@ -525,7 +525,7 @@
 ## SkyBlue997/enableMacosAI
 
 > [!info]
-> ⭐ 1,725 · Shell · 2026-07-26T10:53:09Z  
+> ⭐ 1,727 · Shell · 2026-07-27T04:36:23Z  
 > [GitHub](https://github.com/SkyBlue997/enableMacosAI)  
 > `#apple-intelligence` 
 > 生成失败
@@ -535,7 +535,7 @@
 ## pt-plugins/PT-depiler
 
 > [!info]
-> ⭐ 2,503 · TypeScript · 2026-07-26T16:38:53Z  
+> ⭐ 2,506 · TypeScript · 2026-07-27T03:46:13Z  
 > [GitHub](https://github.com/pt-plugins/PT-depiler)  
 > `#private-tracker` 
 > 生成失败
@@ -545,7 +545,7 @@
 ## freestylefly/CodexGuide
 
 > [!info]
-> ⭐ 2,863 · TypeScript · 2026-07-26T19:20:00Z  
+> ⭐ 2,876 · TypeScript · 2026-07-27T18:29:08Z  
 > [GitHub](https://github.com/freestylefly/CodexGuide) · [Website](https://codexguide.ai)  
 > 
 > 生成失败
@@ -555,7 +555,7 @@
 ## MapleShaw/content-signal-radar
 
 > [!info]
-> ⭐ 171 · JavaScript · 2026-07-26T08:23:21Z  
+> ⭐ 171 · JavaScript · 2026-07-27T09:48:33Z  
 > [GitHub](https://github.com/MapleShaw/content-signal-radar)  
 > 
 > 生成失败
@@ -574,7 +574,7 @@
 ## agentscope-ai/QwenPaw
 
 > [!info]
-> ⭐ 27,872 · Python · 2026-07-26T19:36:39Z  
+> ⭐ 29,011 · Python · 2026-07-27T19:58:22Z  
 > [GitHub](https://github.com/agentscope-ai/QwenPaw) · [Website](http://qwenpaw.agentscope.io/)  
 > `#agent` `#agent-harness` `#agentscope` `#harness-engineering` `#llm-tools` `#llms` `#loop-engineering` `#skills` `#super-agent` 
 > 生成失败
@@ -584,7 +584,7 @@
 ## LOWERTOP/Shadowrocket-First
 
 > [!info]
-> ⭐ 4,782 · N/A · 2026-07-26T15:24:40Z  
+> ⭐ 4,786 · N/A · 2026-07-27T17:05:58Z  
 > [GitHub](https://github.com/LOWERTOP/Shadowrocket-First) · [Website](https://LOWERTOP.dpdns.org)  
 > `#giffgaff` `#okx` `#proxy` `#shadowrocket` `#t-mobile` `#talkatone` `#ultramobile` `#vowifi` `#wifi-call` 
 > 生成失败
@@ -594,7 +594,7 @@
 ## dongyubin/IPTV
 
 > [!info]
-> ⭐ 4,251 · N/A · 2026-07-26T15:42:09Z  
+> ⭐ 4,258 · N/A · 2026-07-27T14:17:43Z  
 > [GitHub](https://github.com/dongyubin/IPTV) · [Website](https://www.wangdu.site/software/av-read/339.html)  
 > `#aptv` `#free-iptv` `#iptv` `#iptv-channels` `#iptv-m3u` `#iptv-player` `#iptv-playlist` 
 > 生成失败
@@ -604,7 +604,7 @@
 ## jwangkun/claude-for-financial-services-cn
 
 > [!info]
-> ⭐ 661 · Python · 2026-07-26T02:50:13Z  
+> ⭐ 664 · Python · 2026-07-27T13:09:32Z  
 > [GitHub](https://github.com/jwangkun/claude-for-financial-services-cn)  
 > 
 > 生成失败
@@ -614,7 +614,7 @@
 ## iluobei/miaomiaowu
 
 > [!info]
-> ⭐ 992 · TypeScript · 2026-07-26T19:00:32Z  
+> ⭐ 999 · TypeScript · 2026-07-27T11:31:08Z  
 > [GitHub](https://github.com/iluobei/miaomiaowu) · [Website](https://miaomiaowu.net)  
 > 
 > 生成失败
@@ -624,7 +624,7 @@
 ## ThinkInAIXYZ/deepchat
 
 > [!info]
-> ⭐ 6,158 · TypeScript · 2026-07-26T16:14:09Z  
+> ⭐ 6,159 · TypeScript · 2026-07-27T16:13:46Z  
 > [GitHub](https://github.com/ThinkInAIXYZ/deepchat) · [Website](https://deepchat.thinkinai.xyz/)  
 > `#AI智能体` `#MCP工具调用` `#多模型支持` `#桌面应用` `#agent` `#agent-skills` `#ai` `#ai-assistant` `#ai-sdk` `#chatgpt` `#claude` `#cross-platform` `#deepseek` `#electron` `#gemini` `#harness-design` `#hermes-agent` `#llm-client` `#mcp` `#mcp-client` `#openai-client` `#openclaw` 
 > DeepChat 是一个功能丰富的开源 AI 智能体平台，统一整合模型、工具和智能体，支持多 LLM 对话、MCP 工具调用和 ACP 智能体集成，提供强大的桌面端 AI 助手体验。
@@ -634,7 +634,7 @@
 ## Diolinux/PhotoGIMP
 
 > [!info]
-> ⭐ 16,881 · CSS · 2026-07-26T19:36:17Z  
+> ⭐ 16,960 · CSS · 2026-07-27T19:35:33Z  
 > [GitHub](https://github.com/Diolinux/PhotoGIMP)  
 > 
 > 生成失败
@@ -663,7 +663,7 @@
 ## 88lin/video_vip
 
 > [!info]
-> ⭐ 4,463 · JavaScript · 2026-07-26T15:09:21Z  
+> ⭐ 4,471 · JavaScript · 2026-07-27T16:04:12Z  
 > [GitHub](https://github.com/88lin/video_vip) · [Website](https://blog.88lin.eu.org/article/46)  
 > 
 > 生成失败
@@ -683,7 +683,7 @@
 ## HKUDS/Vibe-Trading
 
 > [!info]
-> ⭐ 27,793 · Python · 2026-07-26T19:38:02Z  
+> ⭐ 28,062 · Python · 2026-07-27T19:52:49Z  
 > [GitHub](https://github.com/HKUDS/Vibe-Trading) · [Website](https://vibetrading.wiki/)  
 > `#ai-agent` `#algorithmic-trading` `#backtesting` `#fintech` `#llm` `#mcp` `#multi-agent` `#python` `#quantitative-finance` `#trading` 
 > 生成失败
@@ -693,7 +693,7 @@
 ## Sophomoresty/gemini-web2api
 
 > [!info]
-> ⭐ 2,147 · Python · 2026-07-26T18:22:29Z  
+> ⭐ 2,161 · Python · 2026-07-27T19:02:25Z  
 > [GitHub](https://github.com/Sophomoresty/gemini-web2api)  
 > 
 > 生成失败
@@ -703,7 +703,7 @@
 ## baoweise-bot/aimili-vpngate
 
 > [!info]
-> ⭐ 1,428 · Python · 2026-07-26T17:58:36Z  
+> ⭐ 1,435 · Python · 2026-07-27T18:16:36Z  
 > [GitHub](https://github.com/baoweise-bot/aimili-vpngate)  
 > 
 > 生成失败
@@ -713,7 +713,7 @@
 ## paywallpro/paywall-gallery
 
 > [!info]
-> ⭐ 571 · N/A · 2026-07-25T07:18:13Z  
+> ⭐ 572 · N/A · 2026-07-27T03:59:06Z  
 > [GitHub](https://github.com/paywallpro/paywall-gallery) · [Website](https://www.paywallpro.app)  
 > `#app-business` `#app-store` `#growth` `#ios` `#mobile-apps` `#monetization` `#onboarding` `#paywall` `#pricing` `#product-management` `#revenue` `#saas` `#subscription` `#subscription-apps` `#ux-design` 
 > 生成失败
@@ -723,7 +723,7 @@
 ## byoungd/up
 
 > [!info]
-> ⭐ 56,315 · JavaScript · 2026-07-26T19:12:01Z  
+> ⭐ 56,344 · JavaScript · 2026-07-27T19:23:26Z  
 > [GitHub](https://github.com/byoungd/up) · [Website](https://token.love)  
 > `#chinese` `#english-learning` `#tutorial` 
 > 生成失败
@@ -733,7 +733,7 @@
 ## anthropics/financial-services
 
 > [!info]
-> ⭐ 33,809 · Python · 2026-07-26T19:17:10Z  
+> ⭐ 33,840 · Python · 2026-07-27T19:49:11Z  
 > [GitHub](https://github.com/anthropics/financial-services)  
 > 
 > 生成失败
@@ -762,7 +762,7 @@
 ## rohitg00/ai-engineering-from-scratch
 
 > [!info]
-> ⭐ 43,705 · Python · 2026-07-26T19:28:58Z  
+> ⭐ 44,188 · Python · 2026-07-27T19:54:29Z  
 > [GitHub](https://github.com/rohitg00/ai-engineering-from-scratch) · [Website](https://aiengineeringfromscratch.com)  
 > `#agents` `#ai` `#ai-agents` `#ai-engineering` `#computer-vision` `#course` `#deep-learning` `#from-scratch` `#generative-ai` `#llm` `#machine-learning` `#mcp` `#nlp` `#python` `#reinforcement-learning` `#rust` `#swarm-intelligence` `#transformers` `#tutorial` `#typescript` 
 > 生成失败
@@ -772,7 +772,7 @@
 ## jiujiu532/grok2api
 
 > [!info]
-> ⭐ 1,862 · Python · 2026-07-26T16:55:57Z  
+> ⭐ 1,865 · Python · 2026-07-27T14:59:48Z  
 > [GitHub](https://github.com/jiujiu532/grok2api)  
 > 
 > 生成失败
@@ -781,7 +781,7 @@
 ## juanjuandog/FinSight-AI
 
 > [!info]
-> ⭐ 1,029 · Java · 2026-07-26T18:27:12Z  
+> ⭐ 1,031 · Java · 2026-07-27T09:04:02Z  
 > [GitHub](https://github.com/juanjuandog/FinSight-AI)  
 > `#ai-agent` `#financial-research` `#llm-evaluation` `#pgvector` `#postgresql` `#rabbitmq` `#rag` `#redis` `#spring-boot` `#workflow-orchestration` 
 > 生成失败
@@ -800,7 +800,7 @@
 ## chenyme/grok2api
 
 > [!info]
-> ⭐ 6,780 · Go · 2026-07-26T17:15:55Z  
+> ⭐ 6,840 · Go · 2026-07-27T18:00:24Z  
 > [GitHub](https://github.com/chenyme/grok2api)  
 > `#grok` `#grok-build` `#grok-console` `#grok-imagine` `#grok-video` `#grok-web` 
 > 生成失败
@@ -810,7 +810,7 @@
 ## Renhuai123/ziwei-doushu
 
 > [!info]
-> ⭐ 3,309 · TypeScript · 2026-07-26T17:19:35Z  
+> ⭐ 3,311 · TypeScript · 2026-07-27T13:31:14Z  
 > [GitHub](https://github.com/Renhuai123/ziwei-doushu) · [Website](https://metisziwei.com/)  
 > `#bazi` `#chinese-astrology` `#divination` `#fortune-telling` `#nextjs` `#open-source` `#purple-star-astrology` `#typescript` `#zi-wei-dou-shu` `#ziwei-doushu` 
 > 生成失败
@@ -820,7 +820,7 @@
 ## 4thfever/cultivation-world-simulator
 
 > [!info]
-> ⭐ 1,972 · Python · 2026-07-26T16:26:01Z  
+> ⭐ 1,976 · Python · 2026-07-27T14:34:59Z  
 > [GitHub](https://github.com/4thfever/cultivation-world-simulator)  
 > `#agentic-workflow` `#ai` `#ai-agents` `#ai-native` `#autonomous-agents` `#cultivation` `#cultivation-game` `#game` `#llm` `#open-source` `#procedural-generation` `#prompt-engineering` `#python` `#simulation` `#simulation-game` `#simulator` `#text-based-game` `#world-simulation` 
 > 生成失败
@@ -830,7 +830,7 @@
 ## DestinyLinker/MingLi-Bench
 
 > [!info]
-> ⭐ 2,229 · Python · 2026-07-26T17:19:17Z  
+> ⭐ 2,230 · Python · 2026-07-27T06:49:04Z  
 > [GitHub](https://github.com/DestinyLinker/MingLi-Bench) · [Website](https://destinyLinker.github.io/MingLi-Bench/)  
 > 
 > 生成失败
@@ -850,7 +850,7 @@
 ## ziweiknows/ziwei-chart
 
 > [!info]
-> ⭐ 390 · TypeScript · 2026-07-26T13:09:26Z  
+> ⭐ 391 · TypeScript · 2026-07-27T04:00:49Z  
 > [GitHub](https://github.com/ziweiknows/ziwei-chart) · [Website](https://zwknows.vercel.app/)  
 > `#astrology` `#bazi` `#calendar` `#charting` `#chinese-astrology` `#fortune-telling` `#lunar` `#open-source` `#react` `#typescript` `#ziwei` `#ziwei-doushu` 
 > 生成失败
@@ -880,7 +880,7 @@
 ## warpdotdev/warp
 
 > [!info]
-> ⭐ 63,690 · Rust · 2026-07-26T19:12:02Z  
+> ⭐ 63,718 · Rust · 2026-07-27T19:47:37Z  
 > [GitHub](https://github.com/warpdotdev/warp) · [Website](https://warp.dev)  
 > `#bash` `#linux` `#macos` `#rust` `#shell` `#terminal` `#wasm` `#zsh` 
 > 生成失败
@@ -890,7 +890,7 @@
 ## zhu1090093659/deepseek-pp
 
 > [!info]
-> ⭐ 1,345 · TypeScript · 2026-07-26T15:50:33Z  
+> ⭐ 1,359 · TypeScript · 2026-07-27T17:17:12Z  
 > [GitHub](https://github.com/zhu1090093659/deepseek-pp) · [Website](https://chromewebstore.google.com/detail/deepseek++/kdmpkkahkhdmdhfkdihkopikgcocbpbf?hl=zh-CN&authuser=0)  
 > `#agentic-ai` `#ai-agent` `#ai-memory` `#automation` `#browser-extension` `#chrome-extension` `#conversation-export` `#deepseek` `#deepseek-ai` `#edge-extension` `#firefox-extension` `#mcp` `#model-context-protocol` `#native-messaging` `#officecli` `#react` `#tool-calling` `#typescript` `#web-search` `#wxt` 
 > 生成失败
@@ -900,7 +900,7 @@
 ## Alishahryar1/free-claude-code
 
 > [!info]
-> ⭐ 42,393 · Python · 2026-07-26T19:30:36Z  
+> ⭐ 42,529 · Python · 2026-07-27T19:52:50Z  
 > [GitHub](https://github.com/Alishahryar1/free-claude-code)  
 > 
 > 生成失败
@@ -910,7 +910,7 @@
 ## wbh604/UZI-Skill
 
 > [!info]
-> ⭐ 5,761 · Python · 2026-07-26T15:23:38Z  
+> ⭐ 5,791 · Python · 2026-07-27T16:52:38Z  
 > [GitHub](https://github.com/wbh604/UZI-Skill)  
 > 
 > 生成失败
@@ -930,7 +930,7 @@
 ## romgX/openrelay
 
 > [!info]
-> ⭐ 2,270 · TypeScript · 2026-07-26T16:17:34Z  
+> ⭐ 2,273 · TypeScript · 2026-07-27T07:54:40Z  
 > [GitHub](https://github.com/romgX/openrelay)  
 > `#ai` `#ai-proxy` `#aider` `#cerebras` `#claude` `#claude-code` `#copilot` `#cursor` `#developer-tools` `#free-ai` `#free-api` `#groq` `#kiro` `#llm-proxy` `#model-router` `#openai` `#openclaw` `#proxy` `#windsurf` 
 > 生成失败
@@ -940,7 +940,7 @@
 ## mswnlz/edu-knowlege
 
 > [!info]
-> ⭐ 4,263 · JavaScript · 2026-07-26T14:51:51Z  
+> ⭐ 4,263 · JavaScript · 2026-07-27T13:28:09Z  
 > [GitHub](https://github.com/mswnlz/edu-knowlege) · [Website](https://doc.869hr.uk)  
 > 
 > 生成失败
@@ -950,7 +950,7 @@
 ## Windy3f3f3f3f/how-claude-code-works
 
 > [!info]
-> ⭐ 3,291 · N/A · 2026-07-26T12:59:35Z  
+> ⭐ 3,301 · N/A · 2026-07-27T12:50:33Z  
 > [GitHub](https://github.com/Windy3f3f3f3f/how-claude-code-works) · [Website](https://windy3f3f3f3f.github.io/how-claude-code-works/#/)  
 > `#ai` `#ai-agent` `#anthropic` `#architecture` `#claude` `#claude-code` `#coding-agent` `#deep-dive` `#llm` `#source-code-analysis` 
 > 生成失败
@@ -969,7 +969,7 @@
 ## mnfst/awesome-free-llm-apis
 
 > [!info]
-> ⭐ 6,016 · JavaScript · 2026-07-26T17:38:37Z  
+> ⭐ 6,035 · JavaScript · 2026-07-27T18:55:56Z  
 > [GitHub](https://github.com/mnfst/awesome-free-llm-apis)  
 > `#ai-agents` `#anthropic` `#awesome` `#awesome-list` `#gemini` `#llm` `#llm-router` `#llm-routing` `#ollama` `#openai` `#openclaw` `#openclaw-plugin` `#router` 
 > 生成失败
@@ -979,7 +979,7 @@
 ## lxf746/any-auto-register
 
 > [!info]
-> ⭐ 3,029 · Python · 2026-07-26T15:44:30Z  
+> ⭐ 3,036 · Python · 2026-07-27T18:45:00Z  
 > [GitHub](https://github.com/lxf746/any-auto-register) · [Website](https://github.com/lxf746/any2api)  
 > `#account-management` `#account-registration` `#ai` `#ai-tools` `#auto-register` `#automation` `#captcha-solver` `#chatgpt` `#cursor` `#electron` `#fastapi` `#grok` `#kiro` `#multi-platform` `#trae` `#windsurf` 
 > 生成失败
@@ -998,7 +998,7 @@
 ## Resinat/Resin
 
 > [!info]
-> ⭐ 1,787 · Go · 2026-07-26T18:05:43Z  
+> ⭐ 1,823 · Go · 2026-07-27T19:44:29Z  
 > [GitHub](https://github.com/Resinat/Resin)  
 > `#proxy` `#proxypool` 
 > 生成失败
@@ -1008,7 +1008,7 @@
 ## acepanel/panel
 
 > [!info]
-> ⭐ 2,883 · Go · 2026-07-26T18:55:36Z  
+> ⭐ 2,887 · Go · 2026-07-27T12:51:49Z  
 > [GitHub](https://github.com/acepanel/panel) · [Website](https://acepanel.net)  
 > `#fail2ban` `#frp` `#ftp` `#gitea` `#linux` `#lnmp` `#mysql` `#nginx` `#openresty` `#panel` `#php` `#php8` `#podman` `#postgresql` `#pure-ftpd` `#redis` `#s3fs` `#supervisor` 
 > 生成失败
@@ -1028,7 +1028,7 @@
 ## SuYxh/ai-news-aggregator
 
 > [!info]
-> ⭐ 304 · TypeScript · 2026-07-26T18:55:50Z  
+> ⭐ 304 · TypeScript · 2026-07-27T19:12:08Z  
 > [GitHub](https://github.com/SuYxh/ai-news-aggregator) · [Website](https://suyxh.github.io/ai-news-aggregator/)  
 > `#ai-news-rss-aggregator` `#rss-reader` 
 > 生成失败
@@ -1038,7 +1038,7 @@
 ## tw93/Mole
 
 > [!info]
-> ⭐ 59,952 · Shell · 2026-07-26T18:40:29Z  
+> ⭐ 60,190 · Shell · 2026-07-27T19:41:04Z  
 > [GitHub](https://github.com/tw93/Mole) · [Website](https://mole.fit)  
 > `#macOS工具` `#磁盘清理` `#系统优化` `#analyzer` `#appcleaner` `#clean` `#cleaner` `#cleaner-cli` `#cleaner-script` `#command-line` `#daisydisk` `#istat` `#mac` `#macos` `#optimize` `#sensei` `#shell` `#uninstall` 
 > Mole 是一款 macOS 深度清理优化工具，集成 CleanMyMac、AppCleaner 等工具功能于一身。支持深度清理缓存日志、智能卸载应用及其残留文件、可视化磁盘分析、实时系统监控，并提供一键优化系统服务。通过 Homebrew 或脚本安装，提供交互式菜单与命令行操作，支持预览清理计划、白名单管理及详细调试日志，兼顾高效性与安全性。
@@ -1058,7 +1058,7 @@
 ## YoungCan-Wang/WyckoffTradingAgent
 
 > [!info]
-> ⭐ 555 · Python · 2026-07-26T15:03:56Z  
+> ⭐ 555 · Python · 2026-07-27T09:02:53Z  
 > [GitHub](https://github.com/YoungCan-Wang/WyckoffTradingAgent) · [Website](https://youngcan-wang.github.io/wyckoff-homepage/)  
 > `#a-shares` `#ai-trading-agent` `#trading-agent` `#volume-price-analysis` `#wyckoff` 
 > 生成失败
@@ -1068,7 +1068,7 @@
 ## linuxhsj/openclaw-zero-token
 
 > [!info]
-> ⭐ 5,089 · TypeScript · 2026-07-26T17:58:04Z  
+> ⭐ 5,089 · TypeScript · 2026-07-27T19:35:54Z  
 > [GitHub](https://github.com/linuxhsj/openclaw-zero-token)  
 > 
 > 生成失败
@@ -1098,7 +1098,7 @@
 ## huggingface/skills
 
 > [!info]
-> ⭐ 10,873 · Python · 2026-07-26T18:04:16Z  
+> ⭐ 10,878 · Python · 2026-07-27T16:18:54Z  
 > [GitHub](https://github.com/huggingface/skills) · [Website](https://huggingface.co)  
 > 
 > 生成失败
@@ -1118,7 +1118,7 @@
 ## Kxiandaoyan/Memoh-v2
 
 > [!info]
-> ⭐ 340 · Go · 2026-07-16T23:01:11Z  
+> ⭐ 341 · Go · 2026-07-27T08:30:19Z  
 > [GitHub](https://github.com/Kxiandaoyan/Memoh-v2)  
 > 
 > 生成失败
@@ -1128,7 +1128,7 @@
 ## shuaiplus/nodewarden
 
 > [!info]
-> ⭐ 3,184 · TypeScript · 2026-07-26T15:42:41Z  
+> ⭐ 3,192 · TypeScript · 2026-07-27T14:35:28Z  
 > [GitHub](https://github.com/shuaiplus/nodewarden) · [Website](https://nodewarden.app)  
 > `#bitwarden` `#cloudflare` `#cloudflare-d1` `#cloudflare-r2` `#cloudflare-workers` `#end-to-end-encryption` `#nodewarden` `#password` `#password-manager` `#preact` `#self-hosted` `#serverless` `#typescript` `#vaultwarden` `#web-vault` `#workers` `#zero-knowledge` 
 > 生成失败
@@ -1158,7 +1158,7 @@
 ## Pangu-Immortal/hunter-ai-content-factory
 
 > [!info]
-> ⭐ 375 · Python · 2026-07-26T17:53:11Z  
+> ⭐ 373 · Python · 2026-07-27T06:48:57Z  
 > [GitHub](https://github.com/Pangu-Immortal/hunter-ai-content-factory) · [Website](https://github.com/Pangu-Immortal/hunter-ai-content-factory)  
 > 
 > 生成失败
@@ -1188,7 +1188,7 @@
 ## cheahjs/free-llm-api-resources
 
 > [!info]
-> ⭐ 28,296 · Python · 2026-07-26T19:23:27Z  
+> ⭐ 28,439 · Python · 2026-07-27T19:40:57Z  
 > [GitHub](https://github.com/cheahjs/free-llm-api-resources)  
 > `#ai` `#claude` `#gemini` `#llama` `#llm` `#openai` 
 > 生成失败
@@ -1198,7 +1198,7 @@
 ## hesamsheikh/awesome-openclaw-usecases
 
 > [!info]
-> ⭐ 31,536 · N/A · 2026-07-26T18:33:50Z  
+> ⭐ 31,532 · N/A · 2026-07-27T18:33:27Z  
 > [GitHub](https://github.com/hesamsheikh/awesome-openclaw-usecases)  
 > `#awesome-list` `#clawdbot` `#moltbot` `#openclaw` `#openclaw-plugin` `#openclaw-setup` `#openclaw-skills` `#usecase` 
 > 生成失败
@@ -1208,11 +1208,11 @@
 ## HKUDS/nanobot
 
 > [!info]
-> ⭐ 46,265 · Python · 2026-07-26T19:23:01Z  
+> ⭐ 46,300 · Python · 2026-07-27T19:53:49Z  
 > [GitHub](https://github.com/HKUDS/nanobot) · [Website](https://nanobot.wiki)  
-> `#AI智能体` `#个人助手` `#轻量级架构` `#ai` `#ai-agent` `#ai-agents` `#anthropic` `#chatgpt` `#claude` `#claude-code` `#codex` `#codex-cli` `#llm` `#nanobot` `#openai` `#openclaw` 
+> `#AI智能体` `#个人助手` `#轻量级架构` `#agent-framework` `#ai-agent` `#ai-agents` `#chatbot` `#chatops` `#discord-bot` `#llm-agents` `#llms` `#local-llm` `#mcp` `#model-context-protocol` `#multi-agent` `#openai-compatible` `#openclaw` `#personal-ai-assistant` `#python` `#self-hosted` `#telegram-bot-ai-assistant` `#webui` `#workflow-automation` 
 > nanobot 是一个超轻量级个人 AI 助手，灵感来自 OpenClaw，核心功能仅约 4,000 行代码，比 Clawdbot 缩小 99%。支持多平台通信（Slack、Discord、Feishu、DingTalk 等）、MCP 协议、多模态文件处理及智能会话管理，具备高可靠性与模块化扩展能力，适用于个人自动化与智能交互场景。
-> <sub>Lightweight, open-source AI agent for your tools, chats, and workflows.</sub>
+> <sub>Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps</sub>
 
 ---
 ## abingyyds/OpenAsst
@@ -1228,7 +1228,7 @@
 ## 1186258278/OpenClawChineseTranslation
 
 > [!info]
-> ⭐ 3,811 · JavaScript · 2026-07-25T20:20:20Z  
+> ⭐ 3,815 · JavaScript · 2026-07-27T16:01:07Z  
 > [GitHub](https://github.com/1186258278/OpenClawChineseTranslation) · [Website](https://openclaw.qt.cool)  
 > `#ai-agent` `#ai-assistant` `#chatbot` `#chinese` `#claude-ai` `#clawd` `#clawdbot` `#discord` `#llm` `#lobster` `#localization` `#moltbot` `#nodejs` `#open-source` `#openclaw` `#telegram` `#tool-calling` `#whatsapp` `#zh-cn` 
 > 生成失败
@@ -1238,7 +1238,7 @@
 ## miaoxworld/OpenClawInstaller
 
 > [!info]
-> ⭐ 3,433 · Shell · 2026-07-26T07:16:25Z  
+> ⭐ 3,431 · Shell · 2026-07-27T08:29:23Z  
 > [GitHub](https://github.com/miaoxworld/OpenClawInstaller)  
 > `#clawdbot` `#moltbot` `#openclaw` 
 > 生成失败
@@ -1248,7 +1248,7 @@
 ## openclaw/openclaw
 
 > [!info]
-> ⭐ 384,221 · TypeScript · 2026-07-26T19:34:21Z  
+> ⭐ 384,335 · TypeScript · 2026-07-27T19:56:15Z  
 > [GitHub](https://github.com/openclaw/openclaw) · [Website](https://openclaw.ai)  
 > `#AI智能体` `#个人助手` `#跨平台` `#通讯集成` `#ai` `#assistant` `#crustacean` `#molty` `#openclaw` `#own-your-data` `#personal` 
 > OpenClaw 是一款个人 AI 助手，支持在 WhatsApp、Telegram、Slack 等主流通讯平台运行，兼容 macOS/iOS/Android 系统，具备语音交互与实时画布渲染能力。其网关为控制平面，核心产品是本地部署的个性化助手，强调隐私、速度与持续在线体验。
@@ -1258,7 +1258,7 @@
 ## liangdabiao/Claude-Code-Stock-Deep-Research-Agent
 
 > [!info]
-> ⭐ 354 · N/A · 2026-07-25T21:53:42Z  
+> ⭐ 354 · N/A · 2026-07-27T15:04:08Z  
 > [GitHub](https://github.com/liangdabiao/Claude-Code-Stock-Deep-Research-Agent) · [Website](https://www.coze.cn/skills?skill_share_pid=7609692071536132130)  
 > `#claude-code` 
 > 生成失败
@@ -1277,7 +1277,7 @@
 ## Open-Dev-Society/OpenStock
 
 > [!info]
-> ⭐ 13,990 · TypeScript · 2026-07-26T16:48:38Z  
+> ⭐ 14,001 · TypeScript · 2026-07-27T16:42:26Z  
 > [GitHub](https://github.com/Open-Dev-Society/OpenStock) · [Website](https://openstock-ods.vercel.app)  
 > `#coderabbit` `#inngest` `#nextjs` `#shadcn-ui` `#stock-market` `#tailwindcss` 
 > 生成失败
@@ -1287,7 +1287,7 @@
 ## zstmfhy/zlibrary-to-notebooklm
 
 > [!info]
-> ⭐ 1,682 · Python · 2026-07-26T07:52:39Z  
+> ⭐ 1,681 · Python · 2026-07-27T07:23:16Z  
 > [GitHub](https://github.com/zstmfhy/zlibrary-to-notebooklm)  
 > 
 > 生成失败
@@ -1297,7 +1297,7 @@
 ## nguyenphutrong/quotio
 
 > [!info]
-> ⭐ 4,595 · Swift · 2026-07-26T18:04:29Z  
+> ⭐ 4,597 · Swift · 2026-07-27T16:26:03Z  
 > [GitHub](https://github.com/nguyenphutrong/quotio) · [Website](https://www.quotio.dev)  
 > `#ai-tools` `#developer-tools` `#proxy` `#quota-monitor` 
 > 生成失败
@@ -1307,7 +1307,7 @@
 ## libukai/awesome-agent-skills
 
 > [!info]
-> ⭐ 4,884 · Python · 2026-07-26T15:30:33Z  
+> ⭐ 4,887 · Python · 2026-07-27T15:20:58Z  
 > [GitHub](https://github.com/libukai/awesome-agent-skills) · [Website](https://x.com/libukai)  
 > `#agent` `#awsome-list` `#claudecode` `#openclaw` `#skills` 
 > 生成失败
@@ -1317,7 +1317,7 @@
 ## 666ghj/MiroFish
 
 > [!info]
-> ⭐ 69,409 · Python · 2026-07-26T19:31:21Z  
+> ⭐ 69,509 · Python · 2026-07-27T19:41:49Z  
 > [GitHub](https://github.com/666ghj/MiroFish) · [Website](https://mirofish.ai)  
 > `#多智能体` `#群体智能` `#预测引擎` `#agent-memory` `#financial-forecasting` `#future-prediction` `#knowledge-graph` `#llms` `#multi-agent-simulation` `#public-opinion-analysis` `#python3` `#social-prediction` `#swarm-intelligence` 
 > MiroFish 是一款基于多智能体技术的群体智能预测引擎，通过构建高保真数字沙盘模拟现实世界演化。用户上传种子数据（如新闻、小说）并描述预测需求，系统自动生成智能体进行社会推演，最终输出详尽预测报告，适用于舆情分析、文学创作等场景。
@@ -1327,7 +1327,7 @@
 ## ZhuLinsen/daily_stock_analysis
 
 > [!info]
-> ⭐ 59,016 · Python · 2026-07-26T19:30:45Z  
+> ⭐ 59,240 · Python · 2026-07-27T19:52:31Z  
 > [GitHub](https://github.com/ZhuLinsen/daily_stock_analysis) · [Website](https://dsa.zhulinsen.tech)  
 > `#a-stock` `#ai-agent` `#aigc` `#llm` `#quant` `#quantitative-finance` `#quantitative-trading` 
 > 生成失败
@@ -1337,7 +1337,7 @@
 ## PleasePrompto/notebooklm-skill
 
 > [!info]
-> ⭐ 7,500 · Python · 2026-07-26T18:36:05Z  
+> ⭐ 7,512 · Python · 2026-07-27T19:26:36Z  
 > [GitHub](https://github.com/PleasePrompto/notebooklm-skill)  
 > 
 > 生成失败
@@ -1347,7 +1347,7 @@
 ## vbgate/learn-opencode
 
 > [!info]
-> ⭐ 1,660 · Shell · 2026-07-25T17:03:04Z  
+> ⭐ 1,660 · Shell · 2026-07-27T13:41:28Z  
 > [GitHub](https://github.com/vbgate/learn-opencode) · [Website](https://learnopencode.com/)  
 > `#opencode` `#opencode-ai` `#opencode-cluster` `#opencode-plugin` `#opencode-plugins` 
 > 生成失败
@@ -1357,7 +1357,7 @@
 ## Fincept-Corporation/FinceptTerminal
 
 > [!info]
-> ⭐ 29,142 · C++ · 2026-07-26T19:30:47Z  
+> ⭐ 29,233 · C++ · 2026-07-27T19:08:10Z  
 > [GitHub](https://github.com/Fincept-Corporation/FinceptTerminal) · [Website](https://fincept.in)  
 > `#ai-agents` `#algorithmic-trading` `#bloomberg-terminal` `#cpp` `#finance` `#financial-markets` `#fintech` `#good-first-issue` `#investment` `#investment-research` `#machine-learning` `#opensource` `#python` `#qt` `#quantitative-finance` `#stock-market` `#trading` 
 > 生成失败
@@ -1377,7 +1377,7 @@
 ## haierkeys/obsidian-fast-note-sync
 
 > [!info]
-> ⭐ 2,653 · JavaScript · 2026-07-26T18:00:54Z  
+> ⭐ 2,665 · JavaScript · 2026-07-27T16:06:23Z  
 > [GitHub](https://github.com/haierkeys/obsidian-fast-note-sync)  
 > `#better-sync` `#obsidian` `#obsidian-note-sync` 
 > 生成失败
@@ -1387,7 +1387,7 @@
 ## byJoey/cfnew
 
 > [!info]
-> ⭐ 14,582 · N/A · 2026-07-26T18:59:25Z  
+> ⭐ 14,584 · N/A · 2026-07-27T16:09:58Z  
 > [GitHub](https://github.com/byJoey/cfnew)  
 > 
 > 生成失败
@@ -1396,7 +1396,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 188,759 · N/A · 2026-07-26T19:29:54Z  
+> ⭐ 188,993 · N/A · 2026-07-27T19:55:46Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://domain.digitalplat.org)  
 > `#digitalplat` `#domain` `#domain-platform` `#domainname` `#domains` `#free` `#freedomain` 
 > 生成失败
@@ -1406,7 +1406,7 @@
 ## Ceelog/DictionaryByGPT4
 
 > [!info]
-> ⭐ 6,324 · HTML · 2026-07-26T16:43:24Z  
+> ⭐ 6,323 · HTML · 2026-07-27T12:52:33Z  
 > [GitHub](https://github.com/Ceelog/DictionaryByGPT4) · [Website](https://ceelog.github.io/DictionaryByGPT4/)  
 > `#gpt-4` `#gpt4` 
 > 生成失败
@@ -1435,7 +1435,7 @@
 ## 666OS/ClashMac
 
 > [!info]
-> ⭐ 6,085 · N/A · 2026-07-26T16:01:31Z  
+> ⭐ 6,091 · N/A · 2026-07-27T10:43:30Z  
 > [GitHub](https://github.com/666OS/ClashMac) · [Website](https://clashmac.app)  
 > `#SwiftUI` `#代理工具` `#网络可视化` `#clash` `#clash-meta` `#macos` `#mihomo` `#network` `#proxy` `#swiftui` 
 > ClashMac 是一款专为 macOS 打造的本地代理客户端，采用 SwiftUI 原生开发，深度集成系统。提供航线地图、连接拓扑和流量统计三大核心可视化功能，支持系统代理与 TUN 增强模式，具备菜单栏常驻、隐私模式、实时切换和自动重连等特性，带来直观高效的代理管理体验。
@@ -1445,7 +1445,7 @@
 ## ebertti/awesome-telegram
 
 > [!info]
-> ⭐ 5,573 · N/A · 2026-07-26T08:35:00Z  
+> ⭐ 5,573 · N/A · 2026-07-27T15:40:41Z  
 > [GitHub](https://github.com/ebertti/awesome-telegram) · [Website](https://telegram.me/awesometelegram)  
 > `#awesome-list` `#telegram` 
 > 生成失败
@@ -1455,7 +1455,7 @@
 ## jaywcjlove/awesome-mac
 
 > [!info]
-> ⭐ 108,708 · Swift · 2026-07-26T19:28:51Z  
+> ⭐ 108,767 · Swift · 2026-07-27T19:14:58Z  
 > [GitHub](https://github.com/jaywcjlove/awesome-mac) · [Website](https://git.io/macx)  
 > `#macOS应用` `#效率工具` `#软件推荐` `#app` `#apple` `#application` `#apps` `#awesome` `#awesome-list` `#awesome-lists` `#awesome-mac` `#desktop-app` `#desktop-application` `#desktop-apps` `#list` `#mac` `#mac-osx` `#macos` `#macos-app` `#macos-apps` `#macosx` `#software` 
 > Awesome Mac 是一个精选 macOS 优质软件的资源库，涵盖开发工具、设计软件、效率应用等多个类别。项目规模庞大，支持多语言（含中文、韩文），并提供 Docker 镜像和 npm 包形式发布。包含开源、免费、App Store 应用等标签分类，鼓励用户贡献与反馈。
@@ -1485,7 +1485,7 @@
 ## oficcejo/aiagents-stock
 
 > [!info]
-> ⭐ 1,748 · Python · 2026-07-26T16:32:07Z  
+> ⭐ 1,754 · Python · 2026-07-27T17:30:02Z  
 > [GitHub](https://github.com/oficcejo/aiagents-stock)  
 > 
 > 生成失败
@@ -1495,7 +1495,7 @@
 ## zijie0/HumanSystemOptimization
 
 > [!info]
-> ⭐ 21,796 · N/A · 2026-07-26T16:26:38Z  
+> ⭐ 21,794 · N/A · 2026-07-27T19:46:37Z  
 > [GitHub](https://github.com/zijie0/HumanSystemOptimization)  
 > 
 > 生成失败
@@ -1534,7 +1534,7 @@
 ## mtvpls/MoonTVPlus
 
 > [!info]
-> ⭐ 2,823 · TypeScript · 2026-07-26T19:28:23Z  
+> ⭐ 2,827 · TypeScript · 2026-07-27T15:19:03Z  
 > [GitHub](https://github.com/mtvpls/MoonTVPlus)  
 > 
 > 生成失败
@@ -1544,7 +1544,7 @@
 ## MetaCubeX/mihomo
 
 > [!info]
-> ⭐ 32,676 · Python · 2026-07-26T19:07:52Z  
+> ⭐ 32,708 · Python · 2026-07-27T19:56:13Z  
 > [GitHub](https://github.com/MetaCubeX/mihomo) · [Website](https://wiki.metacubex.one)  
 > `#API数据解析` `#Pydantic模型` `#游戏数据集成` `#honkai-star-rail` `#mihomo` `#python` `#star-rail-api` 
 > mihomo 是一个专为《崩坏：星穹铁道》设计的 Python Pydantic 数据模型库，提供对 Mihomo API 解析数据的强类型支持与自动补全。支持 V1/V2 两种数据格式，内置工具函数处理角色去重与数据合并，并提供 JSON 和 Pickle 持久化方案，显著提升游戏数据集成开发效率。
@@ -1554,7 +1554,7 @@
 ## xiaoyaDev/xiaoya-alist
 
 > [!info]
-> ⭐ 8,373 · Shell · 2026-07-26T15:13:12Z  
+> ⭐ 8,374 · Shell · 2026-07-27T11:00:06Z  
 > [GitHub](https://github.com/xiaoyaDev/xiaoya-alist)  
 > 
 > 生成失败
@@ -1564,7 +1564,7 @@
 ## YYsuni/2025-blog-public
 
 > [!info]
-> ⭐ 1,605 · TypeScript · 2026-07-26T13:10:56Z  
+> ⭐ 1,607 · TypeScript · 2026-07-27T12:06:41Z  
 > [GitHub](https://github.com/YYsuni/2025-blog-public) · [Website](https://www.yysuni.com/)  
 > `#blog` `#github-app` 
 > 生成失败
@@ -1584,7 +1584,7 @@
 ## 666ghj/BettaFish
 
 > [!info]
-> ⭐ 41,850 · Python · 2026-07-26T18:04:25Z  
+> ⭐ 41,872 · Python · 2026-07-27T17:43:52Z  
 > [GitHub](https://github.com/666ghj/BettaFish) · [Website](https://deepwiki.com/666ghj/BettaFish)  
 > `#AI驱动` `#多智能体` `#舆情分析` `#agent-framework` `#data-analysis` `#deep-research` `#deep-search` `#llms` `#multi-agent-system` `#nlp` `#public-opinion-analysis` `#python3` `#sentiment-analysis` 
 > 微舆（BettaFish）是一个从0实现的多Agent舆情分析系统，通过AI驱动的全域社媒监控、复合分析引擎、多模态内容解析及Agent协作机制，打破信息茧房，还原舆情原貌并预测趋势。系统支持公私域数据融合，具备轻量化Python架构与高扩展性，可快速定制至金融等垂直领域。
@@ -1594,7 +1594,7 @@
 ## joname1/BestCFip
 
 > [!info]
-> ⭐ 96 · Python · 2026-07-26T17:02:37Z  
+> ⭐ 96 · Python · 2026-07-27T17:43:15Z  
 > [GitHub](https://github.com/joname1/BestCFip)  
 > 
 > 生成失败
@@ -1604,7 +1604,7 @@
 ## zskfree/News-Agent
 
 > [!info]
-> ⭐ 104 · Python · 2026-07-26T10:06:18Z  
+> ⭐ 105 · Python · 2026-07-27T08:34:48Z  
 > [GitHub](https://github.com/zskfree/News-Agent) · [Website](http://www.280468.xyz/News-Agent/)  
 > 
 > 生成失败
@@ -1614,7 +1614,7 @@
 ## nashaofu/shell360
 
 > [!info]
-> ⭐ 1,153 · TypeScript · 2026-07-26T05:00:29Z  
+> ⭐ 1,151 · TypeScript · 2026-07-27T10:56:56Z  
 > [GitHub](https://github.com/nashaofu/shell360) · [Website](https://nashaofu.github.io/shell360/)  
 > `#cross-platform` `#rust` `#sftp` `#ssh` `#ssh-client` `#tauri` `#tauri-app` 
 > 生成失败
@@ -1634,7 +1634,7 @@
 ## ginobefun/BestBlogs
 
 > [!info]
-> ⭐ 3,940 · TypeScript · 2026-07-26T12:24:55Z  
+> ⭐ 3,943 · TypeScript · 2026-07-27T16:56:46Z  
 > [GitHub](https://github.com/ginobefun/BestBlogs) · [Website](https://bestblogs.dev)  
 > `#ai` `#business` `#product` `#programming` 
 > 生成失败
@@ -1663,7 +1663,7 @@
 ## eooce/Auto-deploy-sap-and-keepalive
 
 > [!info]
-> ⭐ 726 · JavaScript · 2026-07-23T21:06:46Z  
+> ⭐ 729 · JavaScript · 2026-07-27T19:00:00Z  
 > [GitHub](https://github.com/eooce/Auto-deploy-sap-and-keepalive)  
 > `#sap` `#trojan` `#vless-ws-tls` `#vmess` `#vmess-ws-tls` 
 > 生成失败
@@ -1673,7 +1673,7 @@
 ## Atarity/deploy-your-own-saas
 
 > [!info]
-> ⭐ 9,814 · Python · 2026-07-26T18:39:49Z  
+> ⭐ 9,818 · Python · 2026-07-27T18:37:26Z  
 > [GitHub](https://github.com/Atarity/deploy-your-own-saas)  
 > `#awesome` `#awesome-list` `#list` `#open-source` `#self-hosted` 
 > 生成失败
@@ -1683,7 +1683,7 @@
 ## dongyubin/Free-AppleId-Serve
 
 > [!info]
-> ⭐ 3,271 · Python · 2026-07-26T15:18:18Z  
+> ⭐ 3,275 · Python · 2026-07-27T14:39:07Z  
 > [GitHub](https://github.com/dongyubin/Free-AppleId-Serve) · [Website](https://help.wwkejishe.top/free-shadowrocket)  
 > `#android` `#appleid` `#chatgpt` `#clash` `#clashx` `#clashx-pro` `#gfw` `#openai` `#quantumult-x` `#shadowsocks` `#shadowsocksr` `#ssr` `#stash` `#tizi` `#v2ray` 
 > 生成失败
@@ -1693,7 +1693,7 @@
 ## liyedanpdx/reddit-ai-trends
 
 > [!info]
-> ⭐ 856 · Python · 2026-07-26T11:14:07Z  
+> ⭐ 857 · Python · 2026-07-27T11:07:48Z  
 > [GitHub](https://github.com/liyedanpdx/reddit-ai-trends)  
 > `#ai` `#deepseek-r1` `#ranking` `#reports` `#trend` 
 > 生成失败
@@ -1723,7 +1723,7 @@
 ## beck-8/subs-check
 
 > [!info]
-> ⭐ 5,079 · Go · 2026-07-26T10:24:30Z  
+> ⭐ 5,084 · Go · 2026-07-27T16:12:44Z  
 > [GitHub](https://github.com/beck-8/subs-check) · [Website](https://t.me/subs_check)  
 > `#clash` `#mihomo` `#v2ray` 
 > 生成失败
@@ -1733,7 +1733,7 @@
 ## GMOogway/shadowrocket-rules
 
 > [!info]
-> ⭐ 5,097 · N/A · 2026-07-26T16:09:15Z  
+> ⭐ 5,102 · N/A · 2026-07-27T06:31:00Z  
 > [GitHub](https://github.com/GMOogway/shadowrocket-rules) · [Website](https://shadowrocket.maghubs.tk)  
 > `#adblock` `#direct` `#gfw` `#gfwlist` `#ios` `#module` `#proxy` `#reject` `#rules` `#shadowrocket` `#ss` `#v2ray` `#xray` 
 > 生成失败
@@ -1743,7 +1743,7 @@
 ## fish2018/pansou
 
 > [!info]
-> ⭐ 13,989 · Go · 2026-07-26T13:45:17Z  
+> ⭐ 14,004 · Go · 2026-07-27T18:18:33Z  
 > [GitHub](https://github.com/fish2018/pansou) · [Website](https://so.252035.xyz/)  
 > 
 > 生成失败
@@ -1753,7 +1753,7 @@
 ## wzdnzd/aggregator
 
 > [!info]
-> ⭐ 6,730 · Python · 2026-07-26T06:00:26Z  
+> ⭐ 6,729 · Python · 2026-07-27T11:57:16Z  
 > [GitHub](https://github.com/wzdnzd/aggregator) · [Website](https://github.com/wzdnzd/aggregator)  
 > `#代理池` `#数据聚合` `#网页爬虫` `#自动化工具` `#proxypool` 
 > Aggregator 是一个高效免费的代理池构建工具，支持从 Telegram、GitHub 等多平台爬取代理资源，自动验证质量并转换为 Clash、V2Ray 等格式，提供 GitHub Gist 等灵活存储后端，适用于个人及企业级代理订阅管理。
@@ -1783,7 +1783,7 @@
 ## enescingoz/awesome-n8n-templates
 
 > [!info]
-> ⭐ 24,158 · N/A · 2026-07-26T18:26:56Z  
+> ⭐ 24,186 · N/A · 2026-07-27T19:08:23Z  
 > [GitHub](https://github.com/enescingoz/awesome-n8n-templates) · [Website](https://n8n.partnerlinks.io/h1pwwf5m4toe)  
 > `#ai-agents` `#ai-automation` `#automation` `#automation-templates` `#awesome` `#awesome-list` `#integration` `#low-code` `#n8n` `#n8n-automation` `#n8n-template` `#no-code-ai` `#no-code-automation` `#self-hosted` `#telegram-bot` `#workflow-automation` 
 > 生成失败
@@ -1803,7 +1803,7 @@
 ## Zie619/n8n-workflows
 
 > [!info]
-> ⭐ 55,844 · Python · 2026-07-26T19:32:32Z  
+> ⭐ 55,856 · Python · 2026-07-27T17:57:30Z  
 > [GitHub](https://github.com/Zie619/n8n-workflows)  
 > `#AI安全扫描` `#n8n工作流` `#自动化工具` 
 > 该仓库收集了 n8n 自动化工作流的完整集合，包含 4343+ 个工作流和 365+ 种集成，覆盖网页抓取、AI 智能体、数据同步等场景。核心亮点是集成 AI-BOM 工具，可扫描工作流中的 AI 安全风险，如硬编码密钥、未授权 AI 代理和危险工具组合，提供合规性报告，助力满足 EU AI Act 要求。
@@ -1813,7 +1813,7 @@
 ## scriptscat/scriptcat
 
 > [!info]
-> ⭐ 4,909 · TypeScript · 2026-07-26T09:29:27Z  
+> ⭐ 4,913 · TypeScript · 2026-07-27T16:33:58Z  
 > [GitHub](https://github.com/scriptscat/scriptcat) · [Website](https://docs.scriptcat.org)  
 > `#chrome-extension` `#greasemonkey-userscript` `#scriptcat` `#userscript` `#webextension` 
 > 生成失败
@@ -1823,7 +1823,7 @@
 ## HuaYaoAI/FinGenius
 
 > [!info]
-> ⭐ 2,725 · Python · 2026-07-25T08:24:20Z  
+> ⭐ 2,727 · Python · 2026-07-27T17:15:44Z  
 > [GitHub](https://github.com/HuaYaoAI/FinGenius)  
 > 
 > 生成失败
@@ -1842,7 +1842,7 @@
 ## d60/twikit
 
 > [!info]
-> ⭐ 4,587 · Python · 2026-07-26T19:03:19Z  
+> ⭐ 4,588 · Python · 2026-07-27T14:34:17Z  
 > [GitHub](https://github.com/d60/twikit) · [Website](https://twikit.readthedocs.io/en/latest/twikit.html)  
 > `#bot` `#client` `#python` `#python-web-scraper` `#python3` `#scrape` `#scraper` `#scraping` `#search` `#tweepy` `#twitter` `#twitter-api` `#twitter-bot` `#twitter-client` `#twitter-internal-api` `#twitter-scraper` `#wrapper` `#x` `#x-api` 
 > 生成失败
@@ -1852,7 +1852,7 @@
 ## linshenkx/prompt-optimizer
 
 > [!info]
-> ⭐ 32,694 · TypeScript · 2026-07-26T18:29:04Z  
+> ⭐ 32,731 · TypeScript · 2026-07-27T19:04:08Z  
 > [GitHub](https://github.com/linshenkx/prompt-optimizer) · [Website](https://prompt.always200.com)  
 > `#AI智能体` `#提示工程` `#自动化工具` `#ai-prompts` `#ai-tools` `#llm` `#prompt` `#prompt-engineering` `#prompt-optimization` `#prompt-optimizer` `#prompt-testing` `#prompt-toolkit` `#prompt-tuning` 
 > Prompt Optimizer 是一款专注于提升 AI 提示词质量的优化工具，支持多轮迭代优化、双模式提示词处理、实时对比测试及多模型集成（OpenAI/Gemini/DeepSeek等），同时提供文生图、图生图、MCP协议支持等高级功能，适用于角色扮演、知识图谱提取、创意写作等场景。
@@ -1862,7 +1862,7 @@
 ## wassupjay/n8n-free-templates
 
 > [!info]
-> ⭐ 5,956 · N/A · 2026-07-26T16:18:11Z  
+> ⭐ 5,957 · N/A · 2026-07-27T17:07:29Z  
 > [GitHub](https://github.com/wassupjay/n8n-free-templates)  
 > `#automation` `#automation-templates` `#integration` `#n8n` `#n8n-autom` `#n8n-template` `#no-code-ai` `#no-code-automation` 
 > 生成失败
@@ -1872,7 +1872,7 @@
 ## bepass-org/oblivion-desktop
 
 > [!info]
-> ⭐ 8,326 · TypeScript · 2026-07-26T18:37:29Z  
+> ⭐ 8,326 · TypeScript · 2026-07-27T06:48:27Z  
 > [GitHub](https://github.com/bepass-org/oblivion-desktop) · [Website](https://github.com/bepass-org/oblivion-desktop/releases)  
 > `#anticensorship` `#cloudflare` `#desktop` `#endpoint` `#gool` `#linux` `#mac` `#masque` `#oblivion` `#proxy` `#psiphon` `#sing-box` `#vpn` `#warp` `#warp-plus` `#warpinwarp` `#windows` `#wireguard` `#wireguard-ui` `#zerotrust` 
 > 生成失败
@@ -1882,7 +1882,7 @@
 ## czlonkowski/n8n-mcp
 
 > [!info]
-> ⭐ 22,414 · TypeScript · 2026-07-26T19:27:19Z  
+> ⭐ 22,424 · TypeScript · 2026-07-27T19:57:38Z  
 > [GitHub](https://github.com/czlonkowski/n8n-mcp) · [Website](https://www.n8n-mcp.com/)  
 > `#mcp` `#mcp-server` `#n8n` `#workflows` 
 > 生成失败
@@ -1892,7 +1892,7 @@
 ## justlovemaki/AIClient2API
 
 > [!info]
-> ⭐ 8,529 · JavaScript · 2026-07-26T18:33:21Z  
+> ⭐ 8,537 · JavaScript · 2026-07-27T19:35:35Z  
 > [GitHub](https://github.com/justlovemaki/AIClient2API) · [Website](https://aiproxy.justlikemaki.vip)  
 > `#aicoding` `#free` 
 > 生成失败
@@ -1921,7 +1921,7 @@
 ## EcoPasteHub/EcoPaste
 
 > [!info]
-> ⭐ 7,244 · Rust · 2026-07-26T15:24:51Z  
+> ⭐ 7,250 · Rust · 2026-07-27T19:34:23Z  
 > [GitHub](https://github.com/EcoPasteHub/EcoPaste) · [Website](https://ecopaste.cn)  
 > `#application` `#clipboard` `#clipboard-manager` `#cross-platform` `#desktop-app` `#desktop-application` `#linux` `#macos` `#rust` `#tauri` `#tauri-app` `#windows` 
 > 生成失败
@@ -1931,7 +1931,7 @@
 ## cf-pages/Telegraph-Image
 
 > [!info]
-> ⭐ 4,620 · HTML · 2026-07-26T10:25:19Z  
+> ⭐ 4,621 · HTML · 2026-07-27T17:39:03Z  
 > [GitHub](https://github.com/cf-pages/Telegraph-Image) · [Website](https://im.gurl.eu.org)  
 > `#cloudflare` `#cloudflare-pages` `#flickr` `#image` `#image-host` `#image-hosting` `#image-sharing` `#imgur` `#serverless` `#telegraph` `#upload-images` 
 > 生成失败
@@ -1941,7 +1941,7 @@
 ## nicejade/wealth-tracker
 
 > [!info]
-> ⭐ 889 · Svelte · 2026-07-26T15:31:31Z  
+> ⭐ 890 · Svelte · 2026-07-27T02:27:10Z  
 > [GitHub](https://github.com/nicejade/wealth-tracker) · [Website](https://fund.lovejade.cn)  
 > `#analyzer` `#axios` `#dayjs` `#fastify` `#flowbite` `#nodejs` `#sequelize` `#sqlite3` `#svelte` `#tailwindcss` `#vite` 
 > 生成失败
@@ -1951,7 +1951,7 @@
 ## googleapis/mcp-toolbox
 
 > [!info]
-> ⭐ 16,023 · Go · 2026-07-26T12:26:07Z  
+> ⭐ 16,032 · Go · 2026-07-27T19:06:13Z  
 > [GitHub](https://github.com/googleapis/mcp-toolbox) · [Website](https://mcp-toolbox.dev/documentation/introduction/)  
 > `#agent` `#agents` `#ai` `#bigquery` `#clickhouse` `#cockroachdb` `#database` `#elasticsearch` `#firestore` `#genai` `#llm` `#mcp` `#mongodb` `#mysql` `#oracle` `#postgresql` `#redis` `#server` `#spanner` `#tidb` 
 > 生成失败
@@ -1961,7 +1961,7 @@
 ## Shubhamsaboo/awesome-llm-apps
 
 > [!info]
-> ⭐ 127,863 · Python · 2026-07-26T19:36:26Z  
+> ⭐ 128,094 · Python · 2026-07-27T19:26:56Z  
 > [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps) · [Website](https://www.theunwindai.com)  
 > `#agents` `#llms` `#python` `#rag` 
 > 生成失败
@@ -1971,7 +1971,7 @@
 ## sansan0/TrendRadar
 
 > [!info]
-> ⭐ 60,907 · Python · 2026-07-26T18:14:50Z  
+> ⭐ 60,939 · Python · 2026-07-27T19:51:42Z  
 > [GitHub](https://github.com/sansan0/TrendRadar) · [Website](https://trendradar.sandev.cc)  
 > `#AI智能体` `#多平台聚合` `#智能推送` `#舆情监控` `#ai` `#bark` `#data-analysis` `#docker` `#hot-news` `#llm` `#mail` `#mcp` `#mcp-server` `#news` `#ntfy` `#python` `#rss` `#trending-topics` `#wechat` `#wework` 
 > TrendRadar 是一款 AI 驱动的舆情监控工具，支持多平台热点聚合、RSS 订阅与智能关键词筛选，提供 AI 翻译与分析简报推送。集成微信/飞书/钉钉等 8+ 通知渠道，支持 Docker 部署与 MCP 架构，赋能 AI 对话分析、情感洞察与趋势预测，30 秒快速部署。
@@ -1981,7 +1981,7 @@
 ## samanhappy/mcphub
 
 > [!info]
-> ⭐ 2,241 · TypeScript · 2026-07-26T19:35:32Z  
+> ⭐ 2,248 · TypeScript · 2026-07-27T12:57:08Z  
 > [GitHub](https://github.com/samanhappy/mcphub) · [Website](https://www.mcphub.app)  
 > `#mcp` `#mcp-gateway` `#mcp-hub` `#mcp-router` `#mcp-server` 
 > 生成失败
@@ -1991,7 +1991,7 @@
 ## jbiaojerry/ebook-treasure-chest
 
 > [!info]
-> ⭐ 14,901 · Python · 2026-07-26T19:05:12Z  
+> ⭐ 14,932 · Python · 2026-07-27T15:26:12Z  
 > [GitHub](https://github.com/jbiaojerry/ebook-treasure-chest)  
 > 
 > 生成失败
@@ -2001,7 +2001,7 @@
 ## other-blowsnow/n8n-nodes-wechat-offiaccount
 
 > [!info]
-> ⭐ 871 · TypeScript · 2026-07-18T11:55:37Z  
+> ⭐ 870 · TypeScript · 2026-07-27T07:23:00Z  
 > [GitHub](https://github.com/other-blowsnow/n8n-nodes-wechat-offiaccount)  
 > 
 > 生成失败
@@ -2011,7 +2011,7 @@
 ## punkpeye/awesome-mcp-servers
 
 > [!info]
-> ⭐ 91,425 · N/A · 2026-07-26T18:54:04Z  
+> ⭐ 91,455 · N/A · 2026-07-27T19:21:53Z  
 > [GitHub](https://github.com/punkpeye/awesome-mcp-servers) · [Website](https://glama.ai/mcp/servers)  
 > `#AI智能体` `#AI网关` `#MCP协议` `#ai` `#mcp` 
 > Awesome MCP Servers 是一个精心策划的 Model Context Protocol (MCP) 服务器集合，涵盖文件访问、数据库连接、API集成等场景，支持本地与云端服务。项目提供多语言 README 和活跃社区支持，并配有在线目录与测试工具，助力开发者快速集成 AI 能力至各类应用。
@@ -2031,7 +2031,7 @@
 ## u14app/deep-research
 
 > [!info]
-> ⭐ 4,683 · JavaScript · 2026-07-26T18:13:36Z  
+> ⭐ 4,684 · JavaScript · 2026-07-27T15:29:10Z  
 > [GitHub](https://github.com/u14app/deep-research) · [Website](https://research.u14.app)  
 > `#AI智能体` `#多模态AI` `#深度研究` `#anthropic` `#deep-research` `#deep-research-api` `#deepresearch` `#deepseek` `#gemini` `#grok` `#mcp-server` `#ollama` `#openai` 
 > Deep Research 是一个基于 AI 的极速深度研究工具，支持多 LLM 模型（如 Gemini、OpenAI、Anthropic 等）和主流搜索引擎，可在约 2 分钟内生成高质量研究报告。采用 Thinking 与 Task 模型协同工作，支持本地知识库构建、知识图谱可视化、内容编辑与历史记录管理，所有数据均本地处理，保障隐私安全。
@@ -2041,7 +2041,7 @@
 ## joeseesun/mcp-prompt-server
 
 > [!info]
-> ⭐ 649 · JavaScript · 2026-07-12T01:45:34Z  
+> ⭐ 648 · JavaScript · 2026-07-27T15:27:31Z  
 > [GitHub](https://github.com/joeseesun/mcp-prompt-server)  
 > 
 > 生成失败
@@ -2051,7 +2051,7 @@
 ## stackia/best-windows-apps
 
 > [!info]
-> ⭐ 3,950 · N/A · 2026-07-26T07:20:11Z  
+> ⭐ 3,950 · N/A · 2026-07-27T19:13:55Z  
 > [GitHub](https://github.com/stackia/best-windows-apps)  
 > 
 > 生成失败
@@ -2061,7 +2061,7 @@
 ## kanshurichard/enableAppleAI
 
 > [!info]
-> ⭐ 4,271 · Shell · 2026-07-26T13:13:20Z  
+> ⭐ 4,272 · Shell · 2026-07-27T19:39:01Z  
 > [GitHub](https://github.com/kanshurichard/enableAppleAI)  
 > `#AI智能体` `#macOS工具` `#区域解锁` `#系统破解` 
 > 本工具通过修改系统缓存文件及注入eligibiltyd进程，绕过Apple对Apple Intelligence在中国销售Mac上的区域限制，支持macOS 15.4+及26.1+，无需常驻后台服务。提供方法1（lldb注入+文件锁定）和方法2（直接修改plist）两种方案，新增强制修改地区为美国功能以解锁ChatGPT整合等高级特性，适用于M1及以上芯片设备。
@@ -2081,7 +2081,7 @@
 ## certimate-go/certimate
 
 > [!info]
-> ⭐ 8,832 · Go · 2026-07-26T16:13:06Z  
+> ⭐ 8,835 · Go · 2026-07-27T17:50:42Z  
 > [GitHub](https://github.com/certimate-go/certimate) · [Website](https://docs.certimate.me)  
 > `#acme` `#acme-client` `#automation` `#certbot` `#certificate` `#certificate-management` `#certificate-manager` `#certificates` `#devops` `#google-trust-services` `#https` `#https-certificate` `#lego` `#letsencrypt` `#self-hosted` `#ssl` `#ssl-cert` `#ssl-certificate` `#ssl-certificates` `#zerossl` 
 > 生成失败
@@ -2091,7 +2091,7 @@
 ## cmliu/SubsCheck-Win-GUI
 
 > [!info]
-> ⭐ 4,511 · C# · 2026-07-26T08:39:27Z  
+> ⭐ 4,512 · C# · 2026-07-27T15:17:55Z  
 > [GitHub](https://github.com/cmliu/SubsCheck-Win-GUI) · [Website](https://youtu.be/sS9Tuf1PCyc)  
 > `#proxypool` 
 > 生成失败
@@ -2101,7 +2101,7 @@
 ## risin42/NagramX
 
 > [!info]
-> ⭐ 2,096 · Java · 2026-07-26T19:03:00Z  
+> ⭐ 2,103 · Java · 2026-07-27T19:21:26Z  
 > [GitHub](https://github.com/risin42/NagramX)  
 > 
 > 生成失败
@@ -2111,7 +2111,7 @@
 ## bestruirui/BestSub
 
 > [!info]
-> ⭐ 2,113 · TypeScript · 2026-07-25T03:51:36Z  
+> ⭐ 2,113 · TypeScript · 2026-07-27T16:12:22Z  
 > [GitHub](https://github.com/bestruirui/BestSub) · [Website](https://t.me/TheBestSubGroup)  
 > `#clash` `#mihomo` `#sing-box` 
 > 生成失败
@@ -2121,7 +2121,7 @@
 ## liyown/ai-trend-publish
 
 > [!info]
-> ⭐ 3,080 · TypeScript · 2026-07-25T17:53:40Z  
+> ⭐ 3,080 · TypeScript · 2026-07-27T14:56:52Z  
 > [GitHub](https://github.com/liyown/ai-trend-publish) · [Website](https://liyown.github.io/ai-trend-publish/)  
 > `#ai` `#weixin` 
 > 生成失败
@@ -2131,7 +2131,7 @@
 ## knowledgefxg/learning-english
 
 > [!info]
-> ⭐ 3,802 · N/A · 2026-07-26T13:23:45Z  
+> ⭐ 3,805 · N/A · 2026-07-27T15:34:09Z  
 > [GitHub](https://github.com/knowledgefxg/learning-english) · [Website](https://en.knowledgefxg.com/)  
 > 
 > 生成失败
@@ -2141,7 +2141,7 @@
 ## Anxcye/anx-reader
 
 > [!info]
-> ⭐ 8,553 · Dart · 2026-07-26T18:57:55Z  
+> ⭐ 8,566 · Dart · 2026-07-27T18:46:56Z  
 > [GitHub](https://github.com/Anxcye/anx-reader) · [Website](https://anx.anxcye.com)  
 > `#AI智能体` `#电子书阅读器` `#跨平台` `#dart` `#ebook-reader` `#flutter` 
 > Anx Reader 是一款专为书迷打造的智能电子书阅读器，集成强大 AI 功能，支持 EPUB、MOBI、AZW3、FB2、TXT、PDF 等多种格式。提供 AI 摘要、翻译、思维导图生成、多端同步、自定义排版、语音朗读及阅读统计等深度功能，致力于提升阅读效率与沉浸体验。
@@ -2151,7 +2151,7 @@
 ## OpenHealthForAll/open-health
 
 > [!info]
-> ⭐ 3,923 · TypeScript · 2026-07-25T09:18:05Z  
+> ⭐ 3,923 · TypeScript · 2026-07-27T15:01:00Z  
 > [GitHub](https://github.com/OpenHealthForAll/open-health) · [Website](https://www.open-health.me)  
 > `#ai` `#healthcare` 
 > 生成失败
@@ -2171,7 +2171,7 @@
 ## MarSeventh/CloudFlare-ImgBed
 
 > [!info]
-> ⭐ 5,909 · JavaScript · 2026-07-26T17:52:22Z  
+> ⭐ 5,942 · JavaScript · 2026-07-27T19:37:20Z  
 > [GitHub](https://github.com/MarSeventh/CloudFlare-ImgBed) · [Website](https://cfbed.sanyue.de)  
 > `#asset-management` `#cloud-native` `#cloudflare-d1` `#cloudflare-r2` `#cloudflare-workers` `#edge-computing` `#image-gallery` `#image-hosting` `#imgbed` `#infra` `#media-server` `#multi-platform` `#serverless` `#uploader` 
 > 生成失败
@@ -2181,7 +2181,7 @@
 ## deepseek-ai/awesome-deepseek-integration
 
 > [!info]
-> ⭐ 38,378 · N/A · 2026-07-26T17:52:18Z  
+> ⭐ 38,387 · N/A · 2026-07-27T17:40:02Z  
 > [GitHub](https://github.com/deepseek-ai/awesome-deepseek-integration)  
 > `#awesome` `#deepseek` 
 > 生成失败
@@ -2191,7 +2191,7 @@
 ## foamzou/melody
 
 > [!info]
-> ⭐ 3,739 · JavaScript · 2026-07-26T15:14:02Z  
+> ⭐ 3,740 · JavaScript · 2026-07-27T09:25:55Z  
 > [GitHub](https://github.com/foamzou/melody)  
 > `#music` 
 > 生成失败
@@ -2201,7 +2201,7 @@
 ## PDFMathTranslate/PDFMathTranslate
 
 > [!info]
-> ⭐ 35,803 · Python · 2026-07-26T15:23:39Z  
+> ⭐ 35,815 · Python · 2026-07-27T18:15:55Z  
 > [GitHub](https://github.com/PDFMathTranslate/PDFMathTranslate) · [Website](https://pdf2zh.com)  
 > `#chinese` `#document` `#edit` `#english` `#japanese` `#korean` `#latex` `#math` `#mcp` `#modify` `#obsidian` `#openai` `#pdf` `#pdf2zh` `#python` `#russian` `#translate` `#translation` `#zotero` 
 > 生成失败
@@ -2221,7 +2221,7 @@
 ## 7Sageer/sublink-worker
 
 > [!info]
-> ⭐ 5,217 · JavaScript · 2026-07-26T14:08:32Z  
+> ⭐ 5,226 · JavaScript · 2026-07-27T16:55:51Z  
 > [GitHub](https://github.com/7Sageer/sublink-worker) · [Website](https://sublink.works/)  
 > `#clash` `#clash-meta` `#cloudflare-workers` `#mihomo` `#singbox` `#v2rayn` `#v2rayng` `#xray-core` 
 > 生成失败
@@ -2301,7 +2301,7 @@
 ## wechat-article/wechat-article-exporter
 
 > [!info]
-> ⭐ 12,491 · TypeScript · 2026-07-26T17:53:09Z  
+> ⭐ 12,508 · TypeScript · 2026-07-27T18:28:58Z  
 > [GitHub](https://github.com/wechat-article/wechat-article-exporter) · [Website](https://down.mptext.top)  
 > `#download` `#wechat` `#wechat-article` `#wechat-download` 
 > 生成失败
@@ -2311,7 +2311,7 @@
 ## interaminense/learning-english
 
 > [!info]
-> ⭐ 740 · N/A · 2026-07-25T16:21:49Z  
+> ⭐ 741 · N/A · 2026-07-27T13:39:20Z  
 > [GitHub](https://github.com/interaminense/learning-english)  
 > `#duolingo` `#english-grammar` `#english-language` `#hacktoberfest-accepted` `#learn-english` `#learning-english` `#lingualeo` 
 > 生成失败
@@ -2321,7 +2321,7 @@
 ## NeoVertex1/SuperPrompt
 
 > [!info]
-> ⭐ 6,419 · N/A · 2026-07-24T01:48:22Z  
+> ⭐ 6,418 · N/A · 2026-07-27T08:51:23Z  
 > [GitHub](https://github.com/NeoVertex1/SuperPrompt)  
 > `#ai` `#ml` `#prompt-engineering` `#prompts` `#prompts-template` 
 > 生成失败
@@ -2331,7 +2331,7 @@
 ## kenjihiranabe/The-Art-of-Linear-Algebra
 
 > [!info]
-> ⭐ 21,649 · PostScript · 2026-07-26T19:00:23Z  
+> ⭐ 21,647 · PostScript · 2026-07-27T13:01:18Z  
 > [GitHub](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)  
 > 
 > 生成失败
@@ -2361,7 +2361,7 @@
 ## lanqian528/chat2api
 
 > [!info]
-> ⭐ 3,754 · Python · 2026-07-26T03:06:55Z  
+> ⭐ 3,755 · Python · 2026-07-27T07:54:15Z  
 > [GitHub](https://github.com/lanqian528/chat2api)  
 > 
 > 生成失败
@@ -2371,7 +2371,7 @@
 ## hiddify/hiddify-app
 
 > [!info]
-> ⭐ 31,702 · Dart · 2026-07-26T18:36:35Z  
+> ⭐ 31,730 · Dart · 2026-07-27T18:44:03Z  
 > [GitHub](https://github.com/hiddify/hiddify-app) · [Website](https://hiddify.com)  
 > `#Sing-box` `#代理工具` `#跨平台客户端` `#clash` `#clashmeta` `#ech` `#hysteria` `#hysteria2` `#proxy` `#reality` `#shadowsocks` `#shadowtls` `#sing-box` `#singbox` `#ssh` `#tuic` `#v2ray` `#vless` `#vmess` `#wireguard` `#xray` 
 > Hiddify 是一款跨平台代理客户端，基于 Sing-box 构建，支持 Vless、Vmess、Reality、TUIC、Hysteria、WireGuard、SSH 等多种协议。具备自动节点选择、TUN 模式、远程配置同步等功能，界面简洁、无广告、开源安全，支持多语言及深色/浅色主题，适用于 Android、iOS、Windows、macOS 和 Linux 平台。
@@ -2381,7 +2381,7 @@
 ## KotatsuApp/Kotatsu
 
 > [!info]
-> ⭐ 8,776 · Kotlin · 2026-07-26T18:15:42Z  
+> ⭐ 8,779 · Kotlin · 2026-07-27T18:26:15Z  
 > [GitHub](https://github.com/KotatsuApp/Kotatsu) · [Website](https://kotatsu.app)  
 > `#android` `#comics` `#manga` `#manga-reader` `#mangareader` `#webtoon` 
 > 生成失败
@@ -2401,7 +2401,7 @@
 ## AiHubCN/Awesome-Chinese-LLM
 
 > [!info]
-> ⭐ 22,699 · N/A · 2026-07-26T15:30:23Z  
+> ⭐ 22,701 · N/A · 2026-07-27T11:08:49Z  
 > [GitHub](https://github.com/AiHubCN/Awesome-Chinese-LLM)  
 > `#awesome-lists` `#chatglm` `#chinese` `#llama` `#llm` `#nlp` 
 > 生成失败
@@ -2411,7 +2411,7 @@
 ## ChatGPTNextWeb/NextChat
 
 > [!info]
-> ⭐ 88,554 · TypeScript · 2026-07-26T17:36:12Z  
+> ⭐ 88,561 · TypeScript · 2026-07-27T17:54:28Z  
 > [GitHub](https://github.com/ChatGPTNextWeb/NextChat) · [Website](https://nextchat.club)  
 > `#AI智能体` `#多模型支持` `#跨平台应用` `#calclaude` `#chatgpt` `#claude` `#cross-platform` `#desktop` `#fe` `#gemini` `#gemini-pro` `#gemini-server` `#gemini-ultra` `#gpt-4o` `#groq` `#nextjs` `#ollama` `#react` `#tauri` `#tauri-app` `#vercel` `#webui` 
 > NextChat 是一款轻量级、高性能的 AI 助手应用，支持 Web、iOS、macOS、Android、Linux 和 Windows 全平台。它集成了 Claude、DeepSeek、GPT-4 和 Gemini Pro 等多种 AI 模型，提供现代化的用户界面和强大的功能，包括 MCP 支持、企业级私有化部署、知识库集成和权限管理，适用于个人用户和企业客户。
@@ -2421,7 +2421,7 @@
 ## cmliu/WorkerVless2sub
 
 > [!info]
-> ⭐ 6,077 · JavaScript · 2026-07-26T14:38:44Z  
+> ⭐ 6,079 · JavaScript · 2026-07-27T18:32:58Z  
 > [GitHub](https://github.com/cmliu/WorkerVless2sub) · [Website](https://VLESS.fxxk.dedyn.io)  
 > 
 > 生成失败
@@ -2431,7 +2431,7 @@
 ## zhuima/awesome-cloudflare
 
 > [!info]
-> ⭐ 14,964 · N/A · 2026-07-26T09:56:17Z  
+> ⭐ 14,981 · N/A · 2026-07-27T19:01:13Z  
 > [GitHub](https://github.com/zhuima/awesome-cloudflare) · [Website](https://cloudflare.chuhai.tools/)  
 > 
 > 生成失败
@@ -2450,7 +2450,7 @@
 ## XIU2/CloudflareSpeedTest
 
 > [!info]
-> ⭐ 28,106 · Go · 2026-07-26T17:44:35Z  
+> ⭐ 28,128 · Go · 2026-07-27T18:32:24Z  
 > [GitHub](https://github.com/XIU2/CloudflareSpeedTest)  
 > `#cdn` `#cloudflare` `#go` `#golang` `#speedtest` 
 > 生成失败
@@ -2460,7 +2460,7 @@
 ## AttemptD/AfuseKt-release
 
 > [!info]
-> ⭐ 4,298 · N/A · 2026-07-26T16:24:25Z  
+> ⭐ 4,298 · N/A · 2026-07-27T18:54:04Z  
 > [GitHub](https://github.com/AttemptD/AfuseKt-release)  
 > 
 > 生成失败
@@ -2469,7 +2469,7 @@
 ## vvbbnn00/WARP-Clash-API
 
 > [!info]
-> ⭐ 8,839 · Python · 2026-07-24T14:33:19Z  
+> ⭐ 8,838 · Python · 2026-07-27T00:51:23Z  
 > [GitHub](https://github.com/vvbbnn00/WARP-Clash-API)  
 > `#clash` `#cloudflare` `#docker` `#docker-compose` `#flask` `#shadowrocket` `#warp` `#warp-plus` 
 > 生成失败
@@ -2499,7 +2499,7 @@
 ## xlucn/oh-my-foss-android
 
 > [!info]
-> ⭐ 5,044 · N/A · 2026-07-26T07:43:03Z  
+> ⭐ 5,040 · N/A · 2026-07-27T06:46:52Z  
 > [GitHub](https://github.com/xlucn/oh-my-foss-android)  
 > `#android` `#apps` `#awesome` `#f-droid` `#foss` `#open-source` `#opensource` 
 > 生成失败
@@ -2529,7 +2529,7 @@
 ## qianguyihao/blog-list
 
 > [!info]
-> ⭐ 2,782 · N/A · 2026-07-26T14:12:21Z  
+> ⭐ 2,783 · N/A · 2026-07-27T14:26:24Z  
 > [GitHub](https://github.com/qianguyihao/blog-list)  
 > 
 > 生成失败
@@ -2539,7 +2539,7 @@
 ## linexjlin/GPTs
 
 > [!info]
-> ⭐ 32,011 · N/A · 2026-07-26T16:26:15Z  
+> ⭐ 32,015 · N/A · 2026-07-27T18:38:21Z  
 > [GitHub](https://github.com/linexjlin/GPTs)  
 > `#AI智能体` `#GPTs应用` `#提示工程` 
 > 该仓库收集了多个泄露的 GPTs 提示词（prompts），涵盖开发、翻译、娱乐、教育、图像生成、视频脚本、游戏等多个领域，展示了 OpenAI GPTs 功能的广泛应用场景与技术实现方式。
@@ -2569,7 +2569,7 @@
 ## lobehub/lobehub
 
 > [!info]
-> ⭐ 80,834 · TypeScript · 2026-07-26T19:24:46Z  
+> ⭐ 80,883 · TypeScript · 2026-07-27T19:31:37Z  
 > [GitHub](https://github.com/lobehub/lobehub) · [Website](https://lobehub.com)  
 > `#agent` `#agent-collaboration` `#agent-harness` `#ai` `#cao` `#chatgpt` `#chief-agent-operator` `#claude` `#deepseek` `#fable` `#gemini` `#glm` `#gpt` `#knowledge-base` `#loop-engineering` `#mcp` `#openai` `#skills` 
 > 生成失败
@@ -2589,7 +2589,7 @@
 ## hiroi-sora/Umi-OCR
 
 > [!info]
-> ⭐ 46,244 · Python · 2026-07-26T18:53:21Z  
+> ⭐ 46,253 · Python · 2026-07-27T18:29:04Z  
 > [GitHub](https://github.com/hiroi-sora/Umi-OCR)  
 > `#OCR文字识别` `#批量处理` `#离线处理` `#ocr` `#ocr-python` `#paddleocr` `#qml` `#qt` `#screenshot` `#umi-ocr` 
 > Umi-OCR 是一款开源免费的离线OCR软件，支持截图识别、批量图片处理、PDF文档扫描及二维码识别。具备智能排版解析、水印页眉页脚排除功能，内置多国语言识别库，无需联网即可高效运行，适用于Windows和Linux系统。
@@ -2599,7 +2599,7 @@
 ## ninxsoft/Mist
 
 > [!info]
-> ⭐ 5,072 · Swift · 2026-07-26T16:26:27Z  
+> ⭐ 5,071 · Swift · 2026-07-27T07:59:16Z  
 > [GitHub](https://github.com/ninxsoft/Mist)  
 > 
 > 生成失败
@@ -2609,7 +2609,7 @@
 ## getActivity/AndroidIndex
 
 > [!info]
-> ⭐ 1,503 · N/A · 2026-07-26T07:43:02Z  
+> ⭐ 1,502 · N/A · 2026-07-27T08:29:15Z  
 > [GitHub](https://github.com/getActivity/AndroidIndex)  
 > 
 > 生成失败
@@ -2619,7 +2619,7 @@
 ## microsoft/Data-Science-For-Beginners
 
 > [!info]
-> ⭐ 36,386 · Jupyter Notebook · 2026-07-26T18:22:09Z  
+> ⭐ 36,396 · Jupyter Notebook · 2026-07-27T16:07:56Z  
 > [GitHub](https://github.com/microsoft/Data-Science-For-Beginners)  
 > `#data-analysis` `#data-science` `#data-visualization` `#microsoft-for-beginners` `#pandas` `#python` 
 > 生成失败
@@ -2629,7 +2629,7 @@
 ## Loyalsoldier/clash-rules
 
 > [!info]
-> ⭐ 27,753 · N/A · 2026-07-26T18:14:00Z  
+> ⭐ 27,753 · N/A · 2026-07-27T19:41:35Z  
 > [GitHub](https://github.com/Loyalsoldier/clash-rules)  
 > `#Clash Premium` `#网络代理` `#规则集` `#adblock` `#adguard` `#anticensorship` `#chinalist` `#clash` `#dnsmasq` `#easylist` `#geosite` `#gfw` `#gfwlist` `#proxy` `#routing` `#shadowsocks` `#ss` `#ssr` `#surge` `#v2ray` 
 > 本项目提供专为 Clash Premium 内核设计的规则集（RULE-SET），涵盖直连、代理和广告拦截域名列表，兼容 ClashX Pro、Clash for Windows 等主流客户端。规则数据源自 v2ray-rules-dat、domain-list-community 等权威源，每日自动更新，支持中国大陆 IP 地址识别，适用于科学上网与网络流量精细化管控。
@@ -2639,7 +2639,7 @@
 ## spiritLHLS/ecs
 
 > [!info]
-> ⭐ 7,073 · Shell · 2026-07-26T17:01:24Z  
+> ⭐ 7,080 · Shell · 2026-07-27T14:56:52Z  
 > [GitHub](https://github.com/spiritLHLS/ecs) · [Website](https://t.me/+UHVoo2U4VyA5NTQ1)  
 > `#almalinux` `#arch` `#astralinux` `#bench-script` `#benchmark` `#cdn` `#centos` `#checker` `#debian` `#fedora` `#goecs` `#ipv6` `#lemonbench` `#openai` `#oracle-linux` `#rockylinux` `#speedtest` `#sysbench` `#ubuntu` `#vps` 
 > 生成失败
@@ -2649,7 +2649,7 @@
 ## fanmingming/live
 
 > [!info]
-> ⭐ 28,291 · JavaScript · 2026-07-26T18:37:42Z  
+> ⭐ 28,294 · JavaScript · 2026-07-27T18:48:33Z  
 > [GitHub](https://github.com/fanmingming/live) · [Website](https://live.fanmingming.com/)  
 > `#china` `#converter` `#epg` `#iptv` `#ipv6` `#live` `#m3u` `#m3u8` `#mp4` `#radio` `#television` `#tv` `#txt` `#workers` 
 > 生成失败
@@ -2659,7 +2659,7 @@
 ## gaozhangmin/boxplayer
 
 > [!info]
-> ⭐ 6,770 · TypeScript · 2026-07-26T06:31:38Z  
+> ⭐ 6,772 · TypeScript · 2026-07-27T08:35:34Z  
 > [GitHub](https://github.com/gaozhangmin/boxplayer) · [Website](https://xbyvideohub.com)  
 > `#electron-app` `#linux` `#macos` `#typescript` `#vue3` `#windows` 
 > 生成失败
@@ -2679,7 +2679,7 @@
 ## 217heidai/adblockfilters
 
 > [!info]
-> ⭐ 7,324 · Python · 2026-07-26T19:13:04Z  
+> ⭐ 7,329 · Python · 2026-07-27T17:47:44Z  
 > [GitHub](https://github.com/217heidai/adblockfilters)  
 > `#adblock` `#adguard` `#adguardhome` `#clash` `#dnsmasq` `#fiters` `#hosts` `#invizible` `#loon` `#mihomo` `#mosdns` `#personaldnsfilter` `#quantumultx` `#shadowrocket` `#sing-box` `#smartdns` 
 > 生成失败
@@ -2689,7 +2689,7 @@
 ## chatanywhere/GPT_API_free
 
 > [!info]
-> ⭐ 39,058 · N/A · 2026-07-26T19:02:18Z  
+> ⭐ 39,154 · N/A · 2026-07-27T19:24:57Z  
 > [GitHub](https://github.com/chatanywhere/GPT_API_free) · [Website](https://api.chatanywhere.tech)  
 > `#AI大模型` `#API服务` `#免费API` `#api` `#chatgpt` `#claude` `#deepseek` `#gemini` `#gpt` `#grok` 
 > ChatAnywhere 提供免费 ChatGPT 和 DeepSeek API 转发服务，支持 gpt-5、gpt-4o、deepseek-r1/v3、claude、gemini、grok 等主流大模型。采用 OpenAI 标准协议，兼容各类应用，支持流式响应，国内直连无需代理，免费额度每日 200 次（按 IP 和 Key 共享），适合个人非商业用途。
@@ -2699,7 +2699,7 @@
 ## getsomecat/GetSomeCats
 
 > [!info]
-> ⭐ 2,225 · JavaScript · 2026-07-26T08:04:30Z  
+> ⭐ 2,227 · JavaScript · 2026-07-27T07:22:29Z  
 > [GitHub](https://github.com/getsomecat/GetSomeCats)  
 > 
 > 生成失败
@@ -2728,7 +2728,7 @@
 ## hehonghui/awesome-english-ebooks
 
 > [!info]
-> ⭐ 34,132 · CSS · 2026-07-26T19:13:56Z  
+> ⭐ 34,173 · CSS · 2026-07-27T18:33:12Z  
 > [GitHub](https://github.com/hehonghui/awesome-english-ebooks)  
 > `#download` `#ebooks` `#economist` `#economist-ebooks` `#new-yorker` `#pdf` 
 > 生成失败
@@ -2748,7 +2748,7 @@
 ## jxxghp/MoviePilot
 
 > [!info]
-> ⭐ 11,419 · Python · 2026-07-26T11:42:18Z  
+> ⭐ 11,427 · Python · 2026-07-27T18:54:43Z  
 > [GitHub](https://github.com/jxxghp/MoviePilot) · [Website](https://movie-pilot.org)  
 > 
 > 生成失败
@@ -2758,7 +2758,7 @@
 ## XPoet/picx
 
 > [!info]
-> ⭐ 5,073 · TypeScript · 2026-07-24T15:09:48Z  
+> ⭐ 5,075 · TypeScript · 2026-07-27T09:13:46Z  
 > [GitHub](https://github.com/XPoet/picx) · [Website](https://picx.xpoet.cn)  
 > `#cdn` `#cloudflare` `#github-api` `#image-hosting` `#image-toolbox` `#jsdelivr` `#picx` `#staticaly` 
 > 生成失败
@@ -2768,7 +2768,7 @@
 ## VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy
 
 > [!info]
-> ⭐ 5,406 · Python · 2026-07-26T15:18:07Z  
+> ⭐ 5,408 · Python · 2026-07-27T16:40:34Z  
 > [GitHub](https://github.com/VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy)  
 > `#clash` `#clash-for-windows` `#clashx` `#clashx-pro` `#free` `#free-node` `#free-proxy` `#free-vpn` `#proxy` `#proxy-pool` `#shadowrocket` `#ss` `#ssr` `#trojan` `#tutorial` `#v2ray` `#vmess` `#vpn` 
 > 生成失败
@@ -2788,7 +2788,7 @@
 ## OdysseusYuan/LKY_OfficeTools
 
 > [!info]
-> ⭐ 12,378 · C# · 2026-07-26T14:42:37Z  
+> ⭐ 12,383 · C# · 2026-07-27T17:13:42Z  
 > [GitHub](https://github.com/OdysseusYuan/LKY_OfficeTools) · [Website](Email: OdysseusYuan@foxmail.com)  
 > `#access` `#email` `#excel` `#kms` `#lync` `#microsoft` `#msoffice` `#office` `#office-free` `#office365` `#onedrive` `#onenote` `#outlook` `#ppt` `#project` `#publisher` `#skype` `#teams` `#visio` `#word` 
 > 生成失败
@@ -2798,7 +2798,7 @@
 ## Johnshall/Shadowrocket-ADBlock-Rules-Forever
 
 > [!info]
-> ⭐ 28,675 · N/A · 2026-07-26T18:55:50Z  
+> ⭐ 28,696 · N/A · 2026-07-27T16:34:54Z  
 > [GitHub](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) · [Website](https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/)  
 > `#adblock` `#gfw` `#proxy` `#shadowrocket` `#v2ray` 
 > 生成失败
@@ -2808,7 +2808,7 @@
 ## PlexPt/awesome-chatgpt-prompts-zh
 
 > [!info]
-> ⭐ 61,171 · N/A · 2026-07-26T18:04:16Z  
+> ⭐ 61,182 · N/A · 2026-07-27T18:28:55Z  
 > [GitHub](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) · [Website](https://chat.aimakex.com/)  
 > `#AI智能体` `#中文调教` `#提示工程` `#自动化工具` `#chat-gpt` `#chatgpt` `#chatgpt3` `#chatgpt4` `#gpt` 
 > 本项目提供全面的 ChatGPT 中文调教指南，涵盖学术论文、创意写作、商业文案、翻译、数据分析等 20+ 应用场景，帮助用户掌握提示词技巧，让 AI 高效完成各类任务，提升工作效率与内容质量。
@@ -2818,7 +2818,7 @@
 ## sub-store-org/Sub-Store
 
 > [!info]
-> ⭐ 10,151 · JavaScript · 2026-07-26T13:33:59Z  
+> ⭐ 10,158 · JavaScript · 2026-07-27T17:19:49Z  
 > [GitHub](https://github.com/sub-store-org/Sub-Store)  
 > `#clash` `#http` `#loon` `#quantumultx` `#shadowrocket` `#shadowsocks` `#shadowsocksr` `#ssr` `#stash` `#surge4` `#trojan` `#vmess` 
 > 生成失败
@@ -2828,7 +2828,7 @@
 ## PKUFlyingPig/cs-self-learning
 
 > [!info]
-> ⭐ 74,551 · HTML · 2026-07-26T16:53:45Z  
+> ⭐ 74,586 · HTML · 2026-07-27T17:39:24Z  
 > [GitHub](https://github.com/PKUFlyingPig/cs-self-learning) · [Website](https://csdiy.wiki)  
 > 
 > 生成失败
@@ -2838,7 +2838,7 @@
 ## imDazui/Tvlist-awesome-m3u-m3u8
 
 > [!info]
-> ⭐ 29,798 · N/A · 2026-07-26T17:20:58Z  
+> ⭐ 29,802 · N/A · 2026-07-27T13:17:56Z  
 > [GitHub](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)  
 > `#awesome` `#iptv` `#iptv-channels` `#iptv-free` `#iptv-m3u8` `#iptv-playlist` `#kodi` `#kodi-addons` `#kodi-plugin` `#m3u` `#m3u8` 
 > 生成失败
@@ -2868,7 +2868,7 @@
 ## pt-plugins/PT-Plugin-Plus
 
 > [!info]
-> ⭐ 7,823 · JavaScript · 2026-07-24T08:20:36Z  
+> ⭐ 7,823 · JavaScript · 2026-07-27T09:20:03Z  
 > [GitHub](https://github.com/pt-plugins/PT-Plugin-Plus)  
 > `#chrome-extension` `#edge-extension` `#firefox-addon` `#web-extension` 
 > 生成失败
@@ -2878,7 +2878,7 @@
 ## NSRingo/iRingo
 
 > [!info]
-> ⭐ 10,552 · N/A · 2026-07-25T12:21:41Z  
+> ⭐ 10,551 · N/A · 2026-07-27T16:45:46Z  
 > [GitHub](https://github.com/NSRingo/iRingo) · [Website](https://NSRingo.github.io)  
 > `#apple-maps` `#apple-news` `#apple-weather-app` `#geolocation` `#ios` `#ipados` `#lookup` `#macos` `#safari` `#siri` `#spotlight` 
 > 生成失败
@@ -2888,7 +2888,7 @@
 ## visiky/resume
 
 > [!info]
-> ⭐ 3,151 · TypeScript · 2026-07-26T11:52:59Z  
+> ⭐ 3,150 · TypeScript · 2026-07-27T14:02:36Z  
 > [GitHub](https://github.com/visiky/resume) · [Website](https://visiky.github.io/resume/?template=template2&user=visiky)  
 > `#gatsby` `#resume` `#resume-builder` `#resume-generator` 
 > 生成失败
@@ -2918,7 +2918,7 @@
 ## limbopro/Adblock4limbo
 
 > [!info]
-> ⭐ 4,463 · JavaScript · 2026-07-26T09:46:01Z  
+> ⭐ 4,466 · JavaScript · 2026-07-27T18:12:07Z  
 > [GitHub](https://github.com/limbopro/Adblock4limbo) · [Website](https://limbopro.com/archives/12904.html)  
 > `#adblock` `#adblocker` `#adguard` `#ios` `#javascript` `#limbopro` `#loon` `#nobyda` `#pornhub` `#quantumult` `#quantumultx` `#shadowrocket` `#stash` `#surge` `#surge4` `#tampermonkey` `#userscripts` 
 > 生成失败
@@ -2928,7 +2928,7 @@
 ## HarborLibrary/Political-Science
 
 > [!info]
-> ⭐ 2,407 · HTML · 2026-07-26T03:31:26Z  
+> ⭐ 2,412 · HTML · 2026-07-27T18:47:46Z  
 > [GitHub](https://github.com/HarborLibrary/Political-Science)  
 > 
 > 生成失败
@@ -2948,7 +2948,7 @@
 ## shibing624/pycorrector
 
 > [!info]
-> ⭐ 6,496 · Python · 2026-07-25T15:51:00Z  
+> ⭐ 6,494 · Python · 2026-07-27T06:50:23Z  
 > [GitHub](https://github.com/shibing624/pycorrector) · [Website](https://www.mulanai.com/product/corrector/)  
 > `#csc` `#error-correction` `#error-detection` `#kenlm` `#macbert4csc` `#pycorrector` `#spelling-errors` `#t5` 
 > 生成失败
@@ -2958,7 +2958,7 @@
 ## DIYgod/RSSHub
 
 > [!info]
-> ⭐ 45,414 · TypeScript · 2026-07-26T18:28:35Z  
+> ⭐ 45,427 · TypeScript · 2026-07-27T19:40:18Z  
 > [GitHub](https://github.com/DIYgod/RSSHub) · [Website](https://docs.rsshub.app)  
 > `#bilibili` `#douban` `#dribbble` `#instagram` `#lofter` `#pixiv` `#rss` `#rsshub` `#spotify` `#telegram` `#tiktok` `#twitter` `#v2ex` `#wechat` `#weibo` `#ximalaya` `#youtube` `#zhihu` 
 > 生成失败
@@ -2978,7 +2978,7 @@
 ## Loyalsoldier/v2ray-rules-dat
 
 > [!info]
-> ⭐ 20,357 · N/A · 2026-07-26T18:56:30Z  
+> ⭐ 20,362 · N/A · 2026-07-27T18:10:46Z  
 > [GitHub](https://github.com/Loyalsoldier/v2ray-rules-dat)  
 > `#adblock` `#adguard` `#anticensorship` `#chinalist` `#dnsmasq` `#easylist` `#geoip` `#geosite` `#gfw` `#gfwlist` `#hysteria` `#ipv4` `#ipv6` `#mihomo` `#proxy` `#routing` `#trojan` `#trojan-go` `#v2ray` `#xray` 
 > 生成失败
@@ -2988,7 +2988,7 @@
 ## zhaoolee/garss
 
 > [!info]
-> ⭐ 1,417 · TypeScript · 2026-07-26T07:44:24Z  
+> ⭐ 1,419 · TypeScript · 2026-07-27T07:50:28Z  
 > [GitHub](https://github.com/zhaoolee/garss)  
 > `#rss` 
 > 生成失败
@@ -3047,7 +3047,7 @@
 ## 521xueweihan/HelloGitHub
 
 > [!info]
-> ⭐ 167,412 · Python · 2026-07-26T19:28:03Z  
+> ⭐ 167,609 · Python · 2026-07-27T19:30:13Z  
 > [GitHub](https://github.com/521xueweihan/HelloGitHub) · [Website](https://hellogithub.com)  
 > `#开发者工具` `#开源社区` `#项目推荐` `#awesome` `#github` `#hellogithub` `#python` 
 > HelloGitHub 是一个专注于分享 GitHub 上有趣、入门级开源项目的月刊，每月28日定期发布，涵盖有趣项目、开源书籍、实战及企业级项目。旨在通过精选优质开源内容，帮助用户快速发现开源魅力，激发学习兴趣，降低入门门槛，从而爱上开源生态。
@@ -3067,7 +3067,7 @@
 ## alirezamika/autoscraper
 
 > [!info]
-> ⭐ 7,732 · Python · 2026-07-26T16:00:39Z  
+> ⭐ 7,738 · Python · 2026-07-27T16:42:19Z  
 > [GitHub](https://github.com/alirezamika/autoscraper)  
 > `#ai` `#artificial-intelligence` `#automation` `#crawler` `#machine-learning` `#python` `#scrape` `#scraper` `#scraping` `#web-scraping` `#webautomation` `#webscraping` 
 > 生成失败
@@ -3077,7 +3077,7 @@
 ## yihong0618/running_page
 
 > [!info]
-> ⭐ 4,492 · TypeScript · 2026-07-26T16:25:23Z  
+> ⭐ 4,492 · TypeScript · 2026-07-27T05:44:20Z  
 > [GitHub](https://github.com/yihong0618/running_page) · [Website](https://running-page.vercel.app)  
 > `#adidas` `#club-nike` `#data-analysis` `#data-visualization` `#garmin` `#garmin-watch` `#github-secret` `#gpx` `#mapbox` `#nike` `#strava` `#vercel` 
 > 生成失败
@@ -3087,7 +3087,7 @@
 ## AboutRSS/ALL-about-RSS
 
 > [!info]
-> ⭐ 5,857 · SCSS · 2026-07-26T11:40:51Z  
+> ⭐ 5,860 · SCSS · 2026-07-27T16:23:22Z  
 > [GitHub](https://github.com/AboutRSS/ALL-about-RSS) · [Website](https://rss.tips)  
 > `#all-in-one` `#apps` `#atom-feed` `#atomfeed` `#community` `#curation` `#feed43` `#json-feed` `#jsonfeed` `#list` `#really-simple-sydication` `#rich-site-summary` `#rss` `#rss-aggregator` `#rss-feed` `#rss-reader` `#rssfeed` `#stuffs` `#telegram` `#telegram-channel` 
 > 生成失败
@@ -3117,7 +3117,7 @@
 ## googlehosts/hosts
 
 > [!info]
-> ⭐ 20,609 · N/A · 2026-07-26T09:29:51Z  
+> ⭐ 20,608 · N/A · 2026-07-27T00:06:08Z  
 > [GitHub](https://github.com/googlehosts/hosts)  
 > `#hosts` 
 > 生成失败
@@ -3146,7 +3146,7 @@
 ## abhisheknaiidu/awesome-github-profile-readme
 
 > [!info]
-> ⭐ 30,628 · N/A · 2026-07-26T19:31:16Z  
+> ⭐ 30,641 · N/A · 2026-07-27T17:07:30Z  
 > [GitHub](https://github.com/abhisheknaiidu/awesome-github-profile-readme) · [Website](https://bit.ly/awesome-gh)  
 > `#awesome` `#awesome-list` `#github` `#github-profile-readme` `#github-readme` `#portfolio` `#profile-readme` 
 > 生成失败
@@ -3175,7 +3175,7 @@
 ## zvtvz/zvt
 
 > [!info]
-> ⭐ 4,246 · Python · 2026-07-25T18:33:40Z  
+> ⭐ 4,247 · Python · 2026-07-27T12:00:37Z  
 > [GitHub](https://github.com/zvtvz/zvt) · [Website](https://zvt.readthedocs.io/en/latest/)  
 > `#algorithmic-trading` `#backtesting` `#cryptocurrency` `#fintech` `#fundamental-analysis` `#machine-learning` `#ml` `#python` `#quant` `#quantitative-finance` `#quantitative-trading` `#stock` `#stock-market` `#technical-analysis` `#trading-bot` `#trading-platform` `#trading-strategies` `#zvt` 
 > 生成失败
@@ -3195,7 +3195,7 @@
 ## iptv-org/iptv
 
 > [!info]
-> ⭐ 134,437 · TypeScript · 2026-07-26T19:28:08Z  
+> ⭐ 134,550 · TypeScript · 2026-07-27T18:11:26Z  
 > [GitHub](https://github.com/iptv-org/iptv) · [Website](https://iptv-org.github.io)  
 > `#iptv` `#m3u` `#playlist` `#streams` `#tv` 
 > 生成失败
@@ -3215,7 +3215,7 @@
 ## foxofice/sub_share
 
 > [!info]
-> ⭐ 1,601 · C# · 2026-07-17T16:37:05Z  
+> ⭐ 1,600 · C# · 2026-07-27T02:43:48Z  
 > [GitHub](https://github.com/foxofice/sub_share)  
 > 
 > 生成失败
@@ -3245,7 +3245,7 @@
 ## awesome-selfhosted/awesome-selfhosted
 
 > [!info]
-> ⭐ 308,478 · N/A · 2026-07-26T19:21:43Z  
+> ⭐ 308,668 · N/A · 2026-07-27T19:52:14Z  
 > [GitHub](https://github.com/awesome-selfhosted/awesome-selfhosted) · [Website](https://awesome-selfhosted.net/)  
 > `#awesome` `#awesome-list` `#cloud` `#free-software` `#hosting` `#privacy` `#self-hosted` `#selfhosted` 
 > 生成失败
@@ -3255,7 +3255,7 @@
 ## metowolf/vCards
 
 > [!info]
-> ⭐ 6,353 · JavaScript · 2026-07-26T16:24:37Z  
+> ⭐ 6,355 · JavaScript · 2026-07-27T08:07:32Z  
 > [GitHub](https://github.com/metowolf/vCards)  
 > `#china` `#ios` `#macos` `#vcards` 
 > 生成失败
@@ -3315,7 +3315,7 @@
 ## nailperry-zd/The-Economist
 
 > [!info]
-> ⭐ 3,904 · N/A · 2026-07-26T16:29:08Z  
+> ⭐ 3,904 · N/A · 2026-07-27T08:09:24Z  
 > [GitHub](https://github.com/nailperry-zd/The-Economist)  
 > `#economist` `#english` `#newspapers` 
 > 生成失败
@@ -3325,7 +3325,7 @@
 ## GitHubDaily/GitHubDaily
 
 > [!info]
-> ⭐ 47,220 · N/A · 2026-07-26T18:33:13Z  
+> ⭐ 47,249 · N/A · 2026-07-27T17:43:27Z  
 > [GitHub](https://github.com/GitHubDaily/GitHubDaily) · [Website](https://githubdaily.com)  
 > `#ai` `#algorithms-and-data-structures` `#backend` `#developer-tools` `#development` `#frontend` `#github` `#java` `#javascript` `#kubernetes` `#linux` `#markdown` `#open-source` `#python` `#tutorials` `#web` 
 > 生成失败
